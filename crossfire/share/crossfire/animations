@@ -1,0 +1,7523 @@
+anim ArchAngel
+highangel.111
+highangel.112
+highangel.113
+mina
+anim ArchAngel_2
+highangel.211
+highangel.212
+highangel.213
+mina
+anim ArchAngel_3
+highangel.311
+highangel.312
+highangel.313
+mina
+anim ArchAngel_4
+highangel.411
+highangel.412
+highangel.413
+mina
+anim ArchAngel_5
+highangel.511
+highangel.512
+highangel.513
+mina
+anim ArchAngel_6
+highangel.611
+highangel.612
+highangel.613
+mina
+anim Balrog
+jessyb.111
+jessyb.112
+jessyb.113
+jessyb.112
+mina
+anim Balrog_10
+jessyb.A11
+jessyb.A12
+jessyb.A13
+jessyb.A12
+mina
+anim Balrog_11
+jessyb.B11
+jessyb.B12
+jessyb.B13
+jessyb.B12
+mina
+anim Balrog_12
+jessyb.C11
+jessyb.C12
+jessyb.C13
+jessyb.C12
+mina
+anim Balrog_13
+jessyb.D11
+jessyb.D12
+jessyb.D13
+jessyb.D12
+mina
+anim Balrog_14
+jessyb.E11
+jessyb.E12
+jessyb.E13
+jessyb.E12
+mina
+anim Balrog_15
+jessyb.F11
+jessyb.F12
+jessyb.F13
+jessyb.F12
+mina
+anim Balrog_16
+jessyb.G11
+jessyb.G12
+jessyb.G13
+jessyb.G12
+mina
+anim Balrog_2
+jessyb.211
+jessyb.212
+jessyb.213
+jessyb.212
+mina
+anim Balrog_3
+jessyb.311
+jessyb.312
+jessyb.313
+jessyb.312
+mina
+anim Balrog_4
+jessyb.411
+jessyb.412
+empty.111
+jessyb.412
+mina
+anim Balrog_5
+jessyb.511
+jessyb.512
+jessyb.513
+jessyb.512
+mina
+anim Balrog_6
+jessyb.611
+jessyb.612
+jessyb.613
+jessyb.612
+mina
+anim Balrog_7
+jessyb.711
+jessyb.712
+jessyb.713
+jessyb.712
+mina
+anim Balrog_8
+jessyb.811
+jessyb.812
+jessyb.813
+jessyb.812
+mina
+anim Balrog_9
+jessyb.911
+jessyb.912
+jessyb.913
+jessyb.912
+mina
+anim CSword
+CSword.113
+CSword.114
+CSword.115
+CSword.116
+CSword.117
+CSword.118
+CSword.119
+CSword.116
+CSword.11A
+CSword.11B
+CSword.11C
+CSword.111
+CSword.112
+mina
+anim Cwyvern
+Cwyvern.171
+Cwyvern.172
+Cwyvern.131
+Cwyvern.132
+facings 2
+mina
+anim Cwyvern_2
+facings 2
+Cwyvern.271
+Cwyvern.272
+Cwyvern.231
+Cwyvern.232
+mina
+anim DK
+facings 2
+Bk.111
+Bk.112
+Bk.113
+Bk.114
+Bk.171
+Bk.172
+Bk.173
+Bk.174
+mina
+anim DK2
+facings 2
+Bk.211
+Bk.212
+Bk.213
+Bk.214
+Bk.271
+Bk.272
+Bk.273
+Bk.274
+mina
+anim DK3
+facings 2
+Bk.311
+Bk.312
+Bk.313
+Bk.314
+Bk.371
+Bk.372
+Bk.373
+Bk.374
+mina
+anim DK4
+facings 2
+Bk.411
+Bk.412
+Bk.413
+Bk.414
+Bk.471
+Bk.472
+Bk.473
+Bk.474
+mina
+anim DK5
+facings 2
+Bk.511
+Bk.512
+Bk.513
+Bk.514
+Bk.571
+Bk.572
+Bk.573
+Bk.574
+mina
+anim DK6
+facings 2
+Bk.611
+Bk.612
+Bk.613
+Bk.614
+Bk.671
+Bk.672
+Bk.673
+Bk.674
+mina
+anim DShield
+DShield.111
+DShield.112
+mina
+anim DShieldm
+DShield.111
+DShield.112
+DShield.111
+DShield.112
+DShield.111
+DShield.113
+mina
+anim DShieldms
+DShield.111
+DShield.112
+DShield.111
+DShield.113
+mina
+anim DShields
+DShield.111
+DShield.112
+DShield.111
+DShield.112
+DShield.111
+DShield.113
+mina
+anim EDK
+facings 2
+Bk.111
+Bk.112
+Bk.113
+Bk.114
+Bk.111
+Bk.112
+Bk.113
+Bk.114
+Bk.111
+Bk.112
+Bk.113
+Bk.114
+Bk.111
+Bk.112
+Bk.115
+Bk.114
+Bk.171
+Bk.172
+Bk.173
+Bk.174
+Bk.171
+Bk.172
+Bk.173
+Bk.174
+Bk.171
+Bk.172
+Bk.173
+Bk.174
+Bk.171
+Bk.172
+Bk.175
+Bk.174
+mina
+anim EDK2
+facings 2
+Bk.211
+Bk.212
+Bk.213
+Bk.214
+Bk.211
+Bk.212
+Bk.213
+Bk.214
+Bk.211
+Bk.212
+Bk.213
+Bk.214
+Bk.211
+Bk.212
+Bk.215
+Bk.214
+Bk.271
+Bk.272
+Bk.273
+Bk.274
+Bk.271
+Bk.272
+Bk.273
+Bk.274
+Bk.271
+Bk.272
+Bk.273
+Bk.274
+Bk.271
+Bk.272
+Bk.275
+Bk.274
+mina
+anim EDK3
+facings 2
+Bk.311
+Bk.312
+Bk.313
+Bk.314
+Bk.311
+Bk.312
+Bk.313
+Bk.314
+Bk.311
+Bk.312
+Bk.313
+Bk.314
+Bk.311
+Bk.312
+Bk.315
+Bk.314
+Bk.371
+Bk.372
+Bk.373
+Bk.374
+Bk.371
+Bk.372
+Bk.373
+Bk.374
+Bk.371
+Bk.372
+Bk.373
+Bk.374
+Bk.371
+Bk.372
+Bk.375
+Bk.374
+mina
+anim EDK4
+facings 2
+Bk.411
+Bk.412
+Bk.413
+Bk.414
+Bk.411
+Bk.412
+Bk.413
+Bk.414
+Bk.411
+Bk.412
+Bk.413
+Bk.414
+Bk.411
+Bk.412
+Bk.415
+Bk.414
+Bk.471
+Bk.472
+Bk.473
+Bk.474
+Bk.471
+Bk.472
+Bk.473
+Bk.474
+Bk.471
+Bk.472
+Bk.473
+Bk.474
+Bk.471
+Bk.472
+Bk.475
+Bk.474
+mina
+anim EDK5
+facings 2
+Bk.511
+Bk.512
+Bk.513
+Bk.514
+Bk.511
+Bk.512
+Bk.513
+Bk.514
+Bk.511
+Bk.512
+Bk.513
+Bk.514
+Bk.511
+Bk.512
+Bk.515
+Bk.514
+Bk.571
+Bk.572
+Bk.573
+Bk.574
+Bk.571
+Bk.572
+Bk.573
+Bk.574
+Bk.571
+Bk.572
+Bk.573
+Bk.574
+Bk.571
+Bk.572
+Bk.575
+Bk.574
+mina
+anim EDK6
+facings 2
+Bk.611
+Bk.612
+Bk.613
+Bk.614
+Bk.611
+Bk.612
+Bk.613
+Bk.614
+Bk.611
+Bk.612
+Bk.613
+Bk.614
+Bk.611
+Bk.612
+Bk.615
+Bk.614
+Bk.671
+Bk.672
+Bk.673
+Bk.674
+Bk.671
+Bk.672
+Bk.673
+Bk.674
+Bk.671
+Bk.672
+Bk.673
+Bk.674
+Bk.671
+Bk.672
+Bk.675
+Bk.674
+mina
+anim Ixalovh
+witch_water.111
+witch_water.112
+mina
+anim Pdragon_mail
+Pdragonmail.111
+Pdragonmail.112
+mina
+anim Wraith
+wraithp.111
+wraithp.131
+wraithp.151
+wraithp.171
+facings 4
+mina
+anim acid_pool
+acid_pool.111
+acid_pool.112
+mina
+anim acid_sphere
+acidsphere.111
+acidsphere.112
+acidsphere.113
+acidsphere.114
+acidsphere.113
+acidsphere.112
+mina
+anim acid_spit
+acidspit.111
+acidspit.111
+acidspit.121
+acidspit.131
+acidspit.141
+acidspit.151
+acidspit.161
+acidspit.171
+acidspit.181
+mina
+anim air_elemental
+elem_air.111
+elem_air.112
+mina
+anim air_witch
+witch_air.111
+witch_air.112
+mina
+anim alchemist_class
+alchemist.111
+alchemist.112
+alchemist.131
+alchemist.132
+alchemist.151
+alchemist.152
+alchemist.171
+alchemist.172
+facings 4
+mina
+anim alchemy_diamond_converter
+lava.111
+lava.112
+lava.113
+lava.114
+lava.115
+polymorph.111
+lava.114
+polymorph.112
+polymorph.113
+polymorph.114
+gem.111
+mina
+anim alchemy_pearl_converter
+lava.111
+lava.112
+lava.113
+lava.114
+lava.115
+polymorph.111
+lava.114
+polymorph.112
+polymorph.113
+polymorph.114
+pearl.111
+mina
+anim alchemy_ruby_converter
+lava.111
+lava.112
+lava.113
+lava.114
+lava.115
+polymorph.111
+lava.114
+polymorph.112
+polymorph.113
+polymorph.114
+ruby.111
+mina
+anim altar
+altar.111
+altar.112
+mina
+anim altar_trigger
+altar.111
+altar.112
+mina
+anim amethyst
+amethyst.111
+amethyst.112
+mina
+anim angel
+angel.111
+angel.113
+angel.112
+angel.113
+mina
+anim ant
+ant.111
+ant.112
+mina
+anim ant_larvae
+ant_larvae.111
+ant_larvae.112
+mina
+anim ape
+facings 2
+ape.131
+ape.132
+ape.171
+ape.172
+mina
+anim archangle
+archangel.111
+archangel.112
+archangel.113
+archangel.114
+archangel.115
+archangel.116
+archangel.117
+archangel.118
+mina
+anim archon
+archon.111
+archon.222
+archon.333
+archon.444
+mina
+anim armour_troll2
+armourtroll2.111
+armourtroll2.112
+mina
+anim arrow
+arrow.101
+arrow.111
+arrow.121
+arrow.131
+arrow.141
+arrow.151
+arrow.161
+arrow.171
+arrow.181
+mina
+anim avatar
+facings 2
+avatar.131
+avatar.132
+avatar.171
+avatar.172
+mina
+anim baby_dragon
+baby_drag.111
+baby_drag.112
+baby_drag.113
+mina
+anim bagpipe
+bagpipe.111
+bagpipe.112
+bagpipe.113
+bagpipe.114
+bagpipe.115
+bagpipe.116
+bagpipe.117
+bagpipe.118
+bagpipe.119
+bagpipe.11A
+mina
+anim ball_lightning
+ball_lightning.111
+ball_lightning.222
+ball_lightning.333
+ball_lightning.444
+mina
+anim banishment
+turnundead.111
+turnundead.112
+turnundead.113
+mina
+anim banshee
+banshee.111
+banshee.112
+mina
+anim barbarian
+barbarian.111
+barbarian.131
+barbarian.151
+barbarian.171
+facings 4
+mina
+anim barbarian_class
+barbarian.111
+barbarian.112
+barbarian.131
+barbarian.132
+barbarian.151
+barbarian.152
+barbarian.171
+barbarian.172
+facings 4
+mina
+anim barrack_long
+barrack_l.x11
+barrack_l.x12
+mina
+anim barrack_long_2
+barrack_l.x11
+barrack_l.x12
+mina
+anim barrack_up
+barrack_u.x11
+barrack_u.x12
+mina
+anim barrack_up_2
+barrack_u.x11
+barrack_u.x12
+mina
+anim baslic
+facings 2
+baslic.x31
+baslic.x32
+baslic.x71
+baslic.x72
+mina
+anim baslic_2
+facings 2
+baslic.x31
+baslic.x32
+baslic.x71
+baslic.x72
+mina
+anim baslic_3
+facings 2
+baslic.x31
+baslic.x32
+baslic.x71
+baslic.x72
+mina
+anim baslic_4
+facings 2
+baslic.x31
+baslic.x32
+baslic.x71
+baslic.x72
+mina
+anim baslic_5
+facings 2
+baslic.x31
+baslic.x32
+baslic.x71
+baslic.x72
+mina
+anim baslic_6
+facings 2
+baslic.x31
+baslic.x32
+baslic.x71
+baslic.x72
+mina
+anim bat
+bat.111
+bat.112
+bat.113
+mina
+anim bear
+bear.x31
+bear.x32
+bear.x71
+bear.x72
+facings 2
+mina
+anim bear_2
+bear.x31
+bear.x32
+bear.x71
+bear.x72
+facings 2
+mina
+anim bee
+bee.111
+bee.112
+mina
+anim beehive
+beehive.111
+beehive.112
+mina
+anim behemoth
+facings 2
+behemoth.x31
+behemoth.x32
+behemoth.x33
+behemoth.x32
+behemoth.x71
+behemoth.x72
+behemoth.x73
+behemoth.x72
+mina
+anim behemoth_2
+facings 2
+behemoth.x31
+behemoth.x32
+behemoth.x33
+behemoth.x32
+behemoth.x71
+behemoth.x72
+behemoth.x73
+behemoth.x72
+mina
+anim behemoth_3
+facings 2
+behemoth.x31
+behemoth.x32
+behemoth.x33
+behemoth.x32
+behemoth.x71
+behemoth.x72
+behemoth.x73
+behemoth.x72
+mina
+anim behemoth_4
+facings 2
+behemoth.x31
+behemoth.x32
+behemoth.x33
+behemoth.x32
+behemoth.x71
+behemoth.x72
+behemoth.x73
+behemoth.x72
+mina
+anim beholder
+beholder.111
+beholder.112
+beholder.113
+beholder.114
+mina
+anim beholder_leader_arc
+beholder_leader.111
+beholder_leader.111
+beholder_leader.111
+beholder_leader.111
+mina
+anim belzebub
+belzebub.111
+belzebub.111
+belzebub.112
+belzebub.112
+belzebub.111
+belzebub.111
+mina
+anim belzebub_2
+belzebub.211
+belzebub.211
+belzebub.212
+belzebub.212
+belzebub.211
+belzebub.211
+mina
+anim belzebub_3
+belzebub.311
+belzebub.311
+belzebub.312
+belzebub.312
+belzebub.311
+belzebub.311
+mina
+anim belzebub_4
+belzebub.411
+belzebub.411
+belzebub.412
+belzebub.412
+belzebub.411
+belzebub.411
+mina
+anim belzebub_5
+belzebub.511
+belzebub.511
+belzebub.512
+belzebub.512
+belzebub.511
+belzebub.511
+mina
+anim belzebub_6
+belzebub.611
+belzebub.611
+belzebub.612
+belzebub.612
+belzebub.611
+belzebub.611
+mina
+anim big_chaos_dragon
+facings 2
+chaos_dragon.171
+chaos_dragon.172
+chaos_dragon.173
+chaos_dragon.174
+chaos_dragon.131
+chaos_dragon.132
+chaos_dragon.133
+chaos_dragon.134
+mina
+anim big_chaos_dragon.2
+facings 2
+chaos_dragon.271
+chaos_dragon.272
+chaos_dragon.273
+chaos_dragon.274
+chaos_dragon.231
+chaos_dragon.232
+chaos_dragon.233
+chaos_dragon.234
+mina
+anim big_chaos_dragon.3
+facings 2
+chaos_dragon.371
+chaos_dragon.372
+chaos_dragon.373
+chaos_dragon.374
+chaos_dragon.331
+chaos_dragon.332
+chaos_dragon.333
+chaos_dragon.334
+mina
+anim big_chaos_dragon.4
+facings 2
+chaos_dragon.471
+chaos_dragon.472
+chaos_dragon.473
+chaos_dragon.474
+chaos_dragon.431
+chaos_dragon.432
+chaos_dragon.433
+chaos_dragon.434
+mina
+anim big_chaos_dragon.5
+facings 2
+chaos_dragon.571
+chaos_dragon.572
+chaos_dragon.573
+chaos_dragon.574
+chaos_dragon.531
+chaos_dragon.532
+chaos_dragon.533
+chaos_dragon.534
+mina
+anim big_chaos_dragon.6
+facings 2
+chaos_dragon.671
+chaos_dragon.672
+chaos_dragon.673
+chaos_dragon.674
+chaos_dragon.631
+chaos_dragon.632
+chaos_dragon.633
+chaos_dragon.634
+mina
+anim big_demon
+facings 2
+big_demon.171
+big_demon.131
+mina
+anim big_demon_2
+facings 2
+big_demon.271
+big_demon.231
+mina
+anim big_demon_3
+facings 2
+big_demon.371
+big_demon.331
+mina
+anim big_demon_4
+facings 2
+big_demon.471
+big_demon.431
+mina
+anim big_demon_5
+facings 2
+big_demon.571
+big_demon.531
+mina
+anim big_demon_6
+facings 2
+big_demon.671
+big_demon.631
+mina
+anim big_demon_7
+facings 2
+big_demon.771
+big_demon.731
+mina
+anim big_demon_8
+facings 2
+big_demon.871
+big_demon.831
+mina
+anim big_demon_9
+facings 2
+big_demon.971
+big_demon.931
+mina
+anim big_demon_A
+facings 2
+big_demon.A71
+big_demon.A31
+mina
+anim big_demon_B
+facings 2
+big_demon.B71
+big_demon.B31
+mina
+anim big_demon_C
+facings 2
+big_demon.C71
+big_demon.C31
+mina
+anim big_dragon
+facings 2
+dragon.171
+dragon.172
+dragon.173
+dragon.174
+dragon.131
+dragon.132
+dragon.133
+dragon.134
+mina
+anim big_dragon_2
+facings 2
+dragon.271
+dragon.272
+dragon.273
+dragon.274
+dragon.231
+dragon.232
+dragon.233
+dragon.234
+mina
+anim big_dragon_3
+facings 2
+dragon.371
+dragon.372
+dragon.373
+dragon.374
+dragon.331
+dragon.332
+dragon.333
+dragon.334
+mina
+anim big_dragon_4
+facings 2
+dragon.471
+dragon.472
+dragon.473
+dragon.474
+dragon.431
+dragon.432
+dragon.433
+dragon.434
+mina
+anim big_dragon_5
+facings 2
+dragon.571
+dragon.572
+dragon.573
+dragon.574
+dragon.531
+dragon.532
+dragon.533
+dragon.534
+mina
+anim big_dragon_6
+facings 2
+dragon.671
+dragon.672
+dragon.673
+dragon.674
+dragon.631
+dragon.632
+dragon.633
+dragon.634
+mina
+anim big_dragon_ancient
+facings 2
+dragon_ac.171
+dragon_ac.172
+dragon_ac.173
+dragon_ac.174
+dragon_ac.131
+dragon_ac.132
+dragon_ac.133
+dragon_ac.134
+mina
+anim big_dragon_ancient2
+facings 2
+dragon_ac.271
+dragon_ac.272
+dragon_ac.273
+dragon_ac.274
+dragon_ac.231
+dragon_ac.232
+dragon_ac.233
+dragon_ac.234
+mina
+anim big_dragon_ancient3
+facings 2
+dragon_ac.371
+dragon_ac.372
+dragon_ac.373
+dragon_ac.374
+dragon_ac.331
+dragon_ac.332
+dragon_ac.333
+dragon_ac.334
+mina
+anim big_dragon_ancient4
+facings 2
+dragon_ac.471
+dragon_ac.472
+dragon_ac.473
+dragon_ac.474
+dragon_ac.431
+dragon_ac.432
+dragon_ac.433
+dragon_ac.434
+mina
+anim big_dragon_ancient5
+facings 2
+dragon_ac.571
+dragon_ac.572
+dragon_ac.573
+dragon_ac.574
+dragon_ac.531
+dragon_ac.532
+dragon_ac.533
+dragon_ac.534
+mina
+anim big_dragon_ancient6
+facings 2
+dragon_ac.671
+dragon_ac.672
+dragon_ac.673
+dragon_ac.674
+dragon_ac.631
+dragon_ac.632
+dragon_ac.633
+dragon_ac.634
+mina
+anim big_dragon_worthless
+facings 2
+worthless_dragon.171
+worthless_dragon.172
+worthless_dragon.173
+worthless_dragon.172
+worthless_dragon.131
+worthless_dragon.132
+worthless_dragon.133
+worthless_dragon.132
+mina
+anim big_elec
+elec_dr.111
+elec_dr.112
+elec_dr.111
+elec_dr.112
+elec_dr.111
+elec_dr.112
+mina
+anim big_elec_2
+elec_dr.211
+elec_dr.212
+elec_dr.211
+elec_dr.212
+elec_dr.211
+elec_dr.212
+mina
+anim big_elec_3
+elec_dr.311
+elec_dr.312
+elec_dr.311
+elec_dr.312
+elec_dr.311
+elec_dr.312
+mina
+anim big_elec_4
+elec_dr.411
+elec_dr.412
+elec_dr.411
+elec_dr.412
+elec_dr.411
+elec_dr.412
+mina
+anim big_elec_5
+elec_dr.511
+elec_dr.512
+elec_dr.511
+elec_dr.512
+elec_dr.511
+elec_dr.512
+mina
+anim big_elec_6
+elec_dr.611
+elec_dr.612
+elec_dr.611
+elec_dr.612
+elec_dr.611
+elec_dr.612
+mina
+anim big_wiz
+big_wiz.111
+big_wiz.112
+big_wiz.113
+big_wiz.114
+big_wiz.115
+big_wiz.115
+big_wiz.114
+big_wiz.113
+big_wiz.112
+mina
+anim big_wiz2
+big_wiz.211
+big_wiz.212
+big_wiz.213
+big_wiz.214
+big_wiz.215
+big_wiz.215
+big_wiz.214
+big_wiz.213
+big_wiz.212
+mina
+anim big_wiz3
+big_wiz.311
+big_wiz.312
+big_wiz.313
+big_wiz.314
+big_wiz.315
+big_wiz.315
+big_wiz.314
+big_wiz.313
+big_wiz.312
+mina
+anim big_wiz4
+big_wiz.411
+big_wiz.412
+big_wiz.413
+big_wiz.414
+big_wiz.415
+big_wiz.415
+big_wiz.414
+big_wiz.413
+big_wiz.412
+mina
+anim big_wiz5
+big_wiz.511
+big_wiz.512
+big_wiz.513
+big_wiz.514
+big_wiz.515
+big_wiz.515
+big_wiz.514
+big_wiz.513
+big_wiz.512
+mina
+anim big_wiz6
+big_wiz.611
+big_wiz.612
+big_wiz.613
+big_wiz.614
+big_wiz.615
+big_wiz.615
+big_wiz.614
+big_wiz.613
+big_wiz.612
+mina
+anim big_wiz7
+big_wiz.711
+big_wiz.712
+big_wiz.713
+big_wiz.714
+big_wiz.715
+big_wiz.715
+big_wiz.714
+big_wiz.713
+big_wiz.712
+mina
+anim big_wiz8
+big_wiz.811
+big_wiz.812
+big_wiz.813
+big_wiz.814
+big_wiz.815
+big_wiz.815
+big_wiz.814
+big_wiz.813
+big_wiz.812
+mina
+anim big_wiz9
+big_wiz.911
+big_wiz.912
+big_wiz.913
+big_wiz.914
+big_wiz.915
+big_wiz.915
+big_wiz.914
+big_wiz.913
+big_wiz.912
+mina
+anim big_worthless_dragon_2
+facings 2
+worthless_dragon.271
+worthless_dragon.272
+worthless_dragon.273
+worthless_dragon.272
+worthless_dragon.231
+worthless_dragon.232
+worthless_dragon.233
+worthless_dragon.232
+mina
+anim big_worthless_dragon_3
+facings 2
+worthless_dragon.371
+worthless_dragon.372
+worthless_dragon.373
+worthless_dragon.372
+worthless_dragon.331
+worthless_dragon.332
+worthless_dragon.333
+worthless_dragon.332
+mina
+anim big_worthless_dragon_4
+facings 2
+worthless_dragon.471
+worthless_dragon.472
+worthless_dragon.473
+worthless_dragon.472
+worthless_dragon.431
+worthless_dragon.432
+worthless_dragon.433
+worthless_dragon.432
+mina
+anim big_worthless_dragon_5
+facings 2
+worthless_dragon.571
+worthless_dragon.572
+worthless_dragon.573
+worthless_dragon.572
+worthless_dragon.531
+worthless_dragon.532
+worthless_dragon.533
+worthless_dragon.532
+mina
+anim big_worthless_dragon_6
+facings 2
+worthless_dragon.671
+worthless_dragon.672
+worthless_dragon.673
+worthless_dragon.672
+worthless_dragon.631
+worthless_dragon.632
+worthless_dragon.633
+worthless_dragon.632
+mina
+anim bird
+facings 4
+bird.111
+bird.112
+bird.131
+bird.132
+bird.151
+bird.152
+bird.171
+bird.172
+mina
+anim black_dragon1
+facings 2
+pl_dragon_bl.151
+pl_dragon_bl.152
+pl_dragon_bl.171
+pl_dragon_bl.172
+mina
+anim black_dragon2
+facings 2
+black_dragon2.151
+black_dragon2.152
+black_dragon2.171
+black_dragon2.172
+mina
+anim black_pudding
+bpudding.111
+bpudding.112
+mina
+anim black_pudding_grow
+bpudding_g.111
+bpudding_g.112
+bpudding_g.113
+bpudding_g.114
+bpudding_g.115
+bpudding_g.116
+bpudding_g.117
+bpudding_g.118
+bpudding_g.119
+mina
+anim black_pudding_split
+bpudding_s.111
+bpudding_s.112
+bpudding_s.113
+bpudding_s.114
+mina
+anim blob
+blob.111
+blob.112
+blob.113
+blob.112
+mina
+anim block_door_closed
+stoneblock.115
+stoneblock.114
+stoneblock.113
+stoneblock.112
+stoneblock.111
+earthwall.111
+mina
+anim block_door_open
+stoneblock.115
+stoneblock.114
+stoneblock.113
+stoneblock.112
+stoneblock.111
+earthwall.111
+mina
+anim blood_sea
+blood_sea.111
+blood_sea.112
+blood_sea.113
+blood_sea.114
+blood_sea.113
+blood_sea.112
+mina
+anim blue_dragon1
+pl_dragon.151
+pl_dragon.152
+pl_dragon.171
+pl_dragon.172
+facings 2
+mina
+anim blue_dragon2
+blue_dragon2.151
+blue_dragon2.152
+blue_dragon2.171
+blue_dragon2.172
+facings 2
+mina
+anim bluesphere
+bluesphere.111
+bluesphere.112
+bluesphere.113
+bluesphere.114
+mina
+anim bolt
+bolt.101
+bolt.111
+bolt.121
+bolt.131
+bolt.141
+bolt.151
+bolt.161
+bolt.171
+bolt.181
+mina
+anim bomb
+bomb.111
+bomb.111
+bomb.112
+bomb.112
+bomb.113
+bomb.113
+bomb.114
+bomb.114
+bomb.114
+mina
+anim bone_drake
+bone_drake.111
+bone_drake.112
+mina
+anim bone_drake_2
+bone_drake.211
+bone_drake.212
+mina
+anim bone_drake_3
+bone_drake.311
+bone_drake.312
+mina
+anim bone_drake_4
+bone_drake.411
+bone_drake.412
+mina
+anim bone_head
+bone_head.111
+bone_head.112
+bone_head.113
+bone_head.112
+mina
+anim brazier
+brazier.111
+brazier.112
+brazier.113
+brazier.114
+mina
+anim brdaxe1
+brdaxe_1.111
+brdaxe_1.114
+brdaxe_1.111
+brdaxe_1.111
+brdaxe_1.112
+brdaxe_1.112
+brdaxe_1.113
+brdaxe_1.113
+brdaxe_1.114
+mina
+anim breeder_ant
+breeder_ant.111
+breeder_ant.111
+breeder_ant.112
+mina
+anim breeder_ant_2
+breeder_ant.211
+breeder_ant.211
+breeder_ant.212
+mina
+anim broo
+broo.111
+broo.112
+broo.113
+broo.112
+mina
+anim bullet
+bullet.112
+bullet.111
+bullet.121
+bullet.131
+bullet.141
+bullet.151
+bullet.161
+bullet.171
+bullet.181
+mina
+anim bullet_mania
+bullet.111
+bullet.121
+bullet.131
+bullet.141
+bullet.151
+bullet.161
+bullet.171
+bullet.181
+mina
+anim burning_fountain
+burning_fountain.111
+burning_fountain.112
+burning_fountain.113
+mina
+anim burningtail
+burningtail.111
+burningtail.112
+burningtail.113
+mina
+anim burningwall_0
+burningwall_0.111
+burningwall_0.112
+mina
+anim burningwall_1_1
+burningwall_4.111
+burningwall_4.112
+mina
+anim burningwall_1_2
+burningwall_1.111
+burningwall_1.112
+mina
+anim burningwall_1_3
+burningwall_8.111
+burningwall_8.112
+mina
+anim burningwall_1_4
+burningwall_2.111
+burningwall_2.112
+mina
+anim burningwall_2_1_1
+burningwall_5.111
+burningwall_5.112
+mina
+anim burningwall_2_1_2
+burningwall_A.111
+burningwall_A.112
+mina
+anim burningwall_2_2_1
+burningwall_3.111
+burningwall_3.112
+mina
+anim burningwall_2_2_2
+burningwall_6.111
+burningwall_6.112
+mina
+anim burningwall_2_2_3
+burningwall_C.111
+burningwall_C.112
+mina
+anim burningwall_2_2_4
+burningwall_9.111
+burningwall_9.112
+mina
+anim burningwall_3_1
+burningwall_B.111
+burningwall_B.112
+mina
+anim burningwall_3_2
+burningwall_7.111
+burningwall_7.112
+mina
+anim burningwall_3_3
+burningwall_E.111
+burningwall_E.112
+mina
+anim burningwall_3_4
+burningwall_D.111
+burningwall_D.112
+mina
+anim burningwall_4
+burningwall_F.111
+burningwall_F.112
+mina
+anim burnout
+burnout.111
+burnout.111
+burnout.112
+burnout.112
+burnout.111
+burnout.111
+burnout.113
+burnout.113
+burnout.111
+burnout.111
+burnout.112
+burnout.112
+burnout.111
+burnout.111
+burnout.113
+burnout.113
+burnout.111
+burnout.111
+burnout.114
+burnout.115
+burnout.116
+burnout.117
+burnout.118
+burnout.119
+burnout.11A
+burnout.11B
+burnout.11C
+burnout.11D
+burnout.11E
+burnout.11F
+burnout.11G
+burnout.11H
+burnout.11J
+burnout.11K
+burnout.11L
+burnout.11M
+burnout.11N
+burnout.11O
+burnout.11P
+burnout.11Q
+burnout.11R
+mina
+anim button_handle
+handle.111
+handle.112
+mina
+anim button_lever
+lever.111
+lever.112
+mina
+anim button_plate
+button_big.111
+button_big.112
+mina
+anim button_small
+button_sma.111
+button_sma.112
+mina
+anim button_trigger
+button_sma.111
+button_sma.112
+mina
+anim byakie
+byakie.111
+byakie.112
+mina
+anim byakie_2
+byakie.211
+byakie.212
+mina
+anim byakie_3
+byakie.311
+byakie.312
+mina
+anim byakie_4
+byakie.411
+byakie.412
+mina
+anim c_knight
+c_knight.111
+c_knight.112
+mina
+anim c_man
+facings 4
+man.151
+man.131
+man.151
+man.171
+mina
+anim c_minor_priest
+facings 2
+c_priest.131
+c_priest.132
+c_priest.171
+c_priest.172
+mina
+anim c_priest
+facings 2
+c_priest.131
+c_priest.132
+c_priest.171
+c_priest.172
+mina
+anim c_woman
+facings 4
+woman.151
+woman.131
+woman.151
+woman.171
+mina
+anim campfire
+campfire.111
+campfire.112
+campfire.113
+campfire.114
+mina
+anim cancellation
+cancellation.111
+cancellation.112
+cancellation.113
+mina
+anim castle_a
+castle_a.x11
+castle_a.x12
+mina
+anim castle_a_northwest
+castle_a_northwest.x11
+castle_a_northwest.x12
+mina
+anim castle_a_western
+castle_a_western.x11
+castle_a_western.x12
+mina
+anim castle_b
+castle_a.x11
+castle_a.x12
+mina
+anim castle_b_northwest
+castle_a_northwest.x11
+castle_a_northwest.x12
+mina
+anim castle_b_western
+castle_a_western.x11
+castle_a_western.x12
+mina
+anim castle_c
+castle_a.x11
+castle_a.x12
+mina
+anim castle_c_northwest
+castle_a_northwest.x11
+castle_a_northwest.x12
+mina
+anim castle_c_western
+castle_a_western.x11
+castle_a_western.x12
+mina
+anim castle_d
+castle_a.x11
+castle_a.x12
+mina
+anim castle_d_northwest
+castle_a_northwest.x11
+castle_a_northwest.x12
+mina
+anim castle_d_western
+castle_a_western.x11
+castle_a_western.x12
+mina
+anim cause_wounds
+healing.111
+healing.112
+healing.111
+mina
+anim centipede
+centipede.111
+centipede.112
+centipede.113
+mina
+anim centipede_r
+centipede_r.111
+centipede_r.112
+centipede_r.113
+mina
+anim chalice
+chalice.111
+chalice.111
+chalice.111
+chalice.112
+chalice.113
+chalice.114
+mina
+anim chalice_bro
+chalice_bro.111
+chalice_bro.111
+chalice_bro.111
+chalice_bro.112
+chalice_bro.113
+chalice_bro.114
+mina
+anim chalice_cop
+chalice_cop.111
+chalice_cop.111
+chalice_cop.111
+chalice_cop.112
+chalice_cop.113
+chalice_cop.114
+mina
+anim chalice_iro
+chalice_iro.111
+chalice_iro.111
+chalice_iro.111
+chalice_iro.112
+chalice_iro.113
+chalice_iro.114
+mina
+anim chalice_plat
+chalice_plat.111
+chalice_plat.111
+chalice_plat.111
+chalice_plat.112
+chalice_plat.113
+chalice_plat.114
+mina
+anim chalice_sil
+chalice_sil.111
+chalice_sil.111
+chalice_sil.111
+chalice_sil.112
+chalice_sil.113
+chalice_sil.114
+mina
+anim chalice_tin
+chalice_tin.111
+chalice_tin.111
+chalice_tin.111
+chalice_tin.112
+chalice_tin.113
+chalice_tin.114
+mina
+anim chandelier_2
+chandelier_2.111
+chandelier_2.112
+chandelier_2.113
+chandelier_2.114
+mina
+anim chandelier_2_copper
+chandelier_2_copper.111
+chandelier_2_copper.112
+chandelier_2_copper.113
+chandelier_2_copper.114
+mina
+anim chaos
+explosion.111
+burnout.11O
+fireball.111
+ball_lightning.111
+icestorm.111
+confusion.111
+acid_pool.111
+poisoncloud.111
+slow.111
+paralyse.111
+fear.111
+mina
+anim chaos_ball
+explosion.111
+burnout.11O
+fireball.111
+ball_lightning.111
+icestorm.111
+confusion.111
+acid_pool.111
+poisoncloud.111
+slow.111
+paralyse.111
+fear.111
+mina
+anim charm_aura
+charm_aura.111
+charm_aura.112
+charm_aura.113
+mina
+anim charwoman
+facings 2
+charwoman.131
+charwoman.132
+charwoman.171
+charwoman.172
+mina
+anim chicken
+facings 2
+chicken.131
+chicken.132
+chicken.171
+chicken.172
+mina
+anim chinese_dragon
+facings 2
+chinese_dr.171
+chinese_dr.172
+chinese_dr.173
+chinese_dr.172
+chinese_dr.131
+chinese_dr.132
+chinese_dr.133
+chinese_dr.132
+mina
+anim chinese_dragon_2
+facings 2
+chinese_dr.271
+chinese_dr.272
+chinese_dr.273
+chinese_dr.272
+chinese_dr.231
+chinese_dr.232
+chinese_dr.233
+chinese_dr.232
+mina
+anim chinese_dragon_3
+facings 2
+chinese_dr.371
+chinese_dr.372
+chinese_dr.373
+chinese_dr.372
+chinese_dr.331
+chinese_dr.332
+chinese_dr.333
+chinese_dr.332
+mina
+anim chinese_dragon_4
+facings 2
+chinese_dr.471
+chinese_dr.472
+chinese_dr.473
+chinese_dr.472
+chinese_dr.431
+chinese_dr.432
+chinese_dr.433
+chinese_dr.432
+mina
+anim cleric
+cleric.111
+cleric.131
+cleric.151
+cleric.171
+facings 4
+mina
+anim cleric_class
+cleric.111
+cleric.112
+cleric.131
+cleric.132
+cleric.151
+cleric.152
+cleric.171
+cleric.172
+facings 4
+mina
+anim clock
+clock.111
+clock.112
+mina
+anim clock_ag
+clock_ag.111
+clock_ag.112
+mina
+anim clock_cw
+clock_cw.111
+clock_cw.112
+mina
+anim clock_grand
+clock_grand.111
+clock_grand.112
+mina
+anim cobra
+cobra.111
+cobra.112
+cobra.113
+cobra.112
+mina
+anim cobra_2
+cobra.211
+cobra.212
+cobra.213
+cobra.212
+mina
+anim cold_dragon
+facings 2
+cold_drag.171
+cold_drag.172
+cold_drag.131
+cold_drag.132
+mina
+anim coldmagma
+coldmagma.111
+coldmagma.111
+coldmagma.111
+coldmagma.112
+coldmagma.111
+coldmagma.111
+coldmagma.112
+coldmagma.112
+coldmagma.112
+coldmagma.111
+coldmagma.112
+coldmagma.112
+mina
+anim collar
+collar.111
+collar.112
+collar.113
+collar.112
+mina
+anim color_spray
+explosion.111
+burnout.11O
+fireball.111
+ball_lightning.111
+icestorm.111
+confusion.111
+acid_pool.111
+poisoncloud.111
+slow.111
+paralyse.111
+fear.111
+mina
+anim confusion
+confusion.111
+confusion.112
+confusion.113
+confusion.114
+mina
+anim conjurer
+conjurer.111
+conjurer.112
+conjurer.113
+conjurer.112
+mina
+anim conjurer2
+conjurer.111
+conjurer.112
+conjurer.113
+conjurer.112
+mina
+anim crawling_chaos
+crawling_chaos.111
+crawling_chaos.112
+crawling_chaos.113
+mina
+anim cwall_closed_1
+cwallsec.111
+cwallsec.112
+cwallsec.113
+cwallsec.114
+cwallsec.115
+cwallsec.116
+cwallsec.117
+cwallsec.118
+mina
+anim cwall_open_1
+cwallsec.111
+cwallsec.112
+cwallsec.113
+cwallsec.114
+cwallsec.115
+cwallsec.116
+cwallsec.117
+cwallsec.118
+mina
+anim cwallmural1_closed_1
+cwallsec_mural_1.111
+cwallsec_mural_1.112
+cwallsec_mural_1.113
+cwallsec_mural_1.114
+cwallsec_mural_1.115
+cwallsec_mural_1.116
+cwallsec_mural_1.117
+cwallsec_mural_1.118
+mina
+anim cwallmural1_open_1
+cwallsec_mural_1.111
+cwallsec_mural_1.112
+cwallsec_mural_1.113
+cwallsec_mural_1.114
+cwallsec_mural_1.115
+cwallsec_mural_1.116
+cwallsec_mural_1.117
+cwallsec_mural_1.118
+mina
+anim cyclops
+facings 2
+cyclops.x71
+cyclops.x72
+cyclops.x31
+cyclops.x32
+mina
+anim cyclops_2
+facings 2
+cyclops.x71
+cyclops.x72
+cyclops.x31
+cyclops.x32
+mina
+anim cyclops_3
+facings 2
+cyclops.x71
+cyclops.x72
+cyclops.x31
+cyclops.x32
+mina
+anim cyclops_4
+facings 2
+cyclops.x71
+cyclops.x72
+cyclops.x31
+cyclops.x32
+mina
+anim cyclops_5
+facings 2
+cyclops.x71
+cyclops.x72
+cyclops.x31
+cyclops.x32
+mina
+anim cyclops_6
+facings 2
+cyclops.x71
+cyclops.x72
+cyclops.x31
+cyclops.x32
+mina
+anim dagger_f
+dagger_f.111
+dagger_f.112
+dagger_f.113
+dagger_f.114
+mina
+anim dancing_girl
+dancing_girl.111
+dancing_girl.112
+dancing_girl.113
+mina
+anim dancingsword
+dancingsword.111
+dancingsword.112
+dancingsword.111
+dancingsword.113
+mina
+anim dark_elf
+dark_elf.111
+dark_elf.112
+mina
+anim dark_elf2
+facings 2
+dark_elf2.131
+dark_elf2.132
+dark_elf2.171
+dark_elf2.172
+mina
+anim darkblade
+darkblade.111
+darkblade.112
+darkblade.113
+darkblade.114
+darkblade.115
+darkblade.116
+darkblade.117
+darkblade.116
+darkblade.115
+darkblade.114
+darkblade.113
+darkblade.112
+darkblade.111
+mina
+anim darkness
+blocked.111
+blocked.111
+blocked.111
+mina
+anim dave
+dave.111
+dave.112
+dave.113
+mina
+anim deathshead
+deathshead.111
+deathshead.112
+deathshead.113
+deathshead.114
+mina
+anim deathtree
+deathtree.111
+deathtree.112
+deathtree.113
+deathtree.114
+deathtree.115
+mina
+anim deep_sea
+deep_sea.111
+deep_sea.112
+deep_sea.113
+deep_sea.114
+deep_sea.113
+deep_sea.112
+mina
+anim deep_swamp
+deep_swamp.111
+deep_swamp.112
+mina
+anim demilich
+demilich.111
+demilich.112
+demilich.111
+demilich.113
+demilich.111
+mina
+anim demon_lord
+demon_lord.E11
+demon_lord.E12
+mina
+anim demon_lord_1
+demon_lord.111
+demon_lord.112
+mina
+anim demon_lord_10
+demon_lord.A11
+demon_lord.A12
+mina
+anim demon_lord_11
+demon_lord.B11
+demon_lord.B12
+mina
+anim demon_lord_12
+demon_lord.C11
+demon_lord.C12
+mina
+anim demon_lord_13
+demon_lord.D11
+demon_lord.D12
+mina
+anim demon_lord_15
+demon_lord.F11
+demon_lord.F12
+mina
+anim demon_lord_16
+demon_lord.G11
+demon_lord.G12
+mina
+anim demon_lord_17
+demon_lord.H11
+demon_lord.H12
+mina
+anim demon_lord_18
+demon_lord.I11
+demon_lord.I12
+mina
+anim demon_lord_19
+demon_lord.J11
+demon_lord.J12
+mina
+anim demon_lord_2
+demon_lord.211
+demon_lord.212
+mina
+anim demon_lord_20
+demon_lord.K11
+demon_lord.K12
+mina
+anim demon_lord_21
+demon_lord.L11
+demon_lord.L12
+mina
+anim demon_lord_22
+demon_lord.M11
+demon_lord.M12
+mina
+anim demon_lord_23
+demon_lord.N11
+demon_lord.N12
+mina
+anim demon_lord_24
+demon_lord.O11
+demon_lord.O12
+mina
+anim demon_lord_25
+demon_lord.P11
+demon_lord.P12
+mina
+anim demon_lord_26
+demon_lord.Q11
+demon_lord.Q12
+mina
+anim demon_lord_27
+demon_lord.R11
+demon_lord.R12
+mina
+anim demon_lord_28
+demon_lord.S11
+demon_lord.S12
+mina
+anim demon_lord_29
+demon_lord.T11
+demon_lord.T12
+mina
+anim demon_lord_3
+demon_lord.311
+demon_lord.312
+mina
+anim demon_lord_30
+demon_lord.U11
+demon_lord.U12
+mina
+anim demon_lord_31
+demon_lord.V11
+demon_lord.V12
+mina
+anim demon_lord_32
+demon_lord.W11
+demon_lord.W12
+mina
+anim demon_lord_4
+demon_lord.411
+demon_lord.412
+mina
+anim demon_lord_5
+demon_lord.511
+demon_lord.512
+mina
+anim demon_lord_6
+demon_lord.611
+demon_lord.612
+mina
+anim demon_lord_7
+demon_lord.711
+demon_lord.712
+mina
+anim demon_lord_8
+demon_lord.811
+demon_lord.812
+mina
+anim demon_lord_9
+demon_lord.911
+demon_lord.912
+mina
+anim demonbane
+demonbane.111
+demonbane.112
+demonbane.113
+demonbane.114
+demonbane.115
+demonbane.116
+demonbane.117
+demonbane.118
+demonbane.119
+mina
+anim destruction
+destruction.111
+destruction.112
+destruction.113
+destruction.114
+mina
+anim detect_magic
+det_magic.111
+det_magic.112
+det_magic.113
+mina
+anim detect_monster
+det_magic.111
+det_magic.112
+det_magic.113
+mina
+anim detector
+pedestal.112
+pedestal.111
+mina
+anim devil
+devil.111
+devil.112
+mina
+anim dim_torch
+torch_lit1.111
+torch_lit2.111
+mina
+anim dire_wolf
+dwolf.171
+dwolf.171
+dwolf.172
+dwolf.131
+dwolf.131
+dwolf.132
+facings 2
+mina
+anim dire_wolf_sire
+dwolf.171
+dwolf.171
+dwolf.172
+dwolf.131
+dwolf.131
+dwolf.132
+facings 2
+mina
+anim director_1
+director.111
+director.112
+director.113
+mina
+anim director_2
+director.121
+director.122
+director.123
+director.124
+director.125
+mina
+anim director_3
+director.131
+director.132
+director.133
+mina
+anim director_4
+director.141
+director.142
+director.143
+director.144
+director.145
+mina
+anim director_5
+director.151
+director.152
+director.153
+mina
+anim director_6
+director.161
+director.162
+director.163
+director.164
+director.165
+mina
+anim director_7
+director.171
+director.172
+director.173
+mina
+anim director_8
+director.181
+director.182
+director.183
+director.184
+director.185
+mina
+anim director_turn
+director.111
+director.112
+director.113
+director.121
+director.123
+director.125
+director.131
+director.132
+director.133
+director.141
+director.143
+director.145
+director.151
+director.152
+director.153
+director.161
+director.163
+director.165
+director.171
+director.172
+director.173
+director.181
+director.183
+director.185
+mina
+anim divine_shock
+ball_lightning.111
+ball_lightning.222
+ball_lightning.333
+ball_lightning.444
+mina
+anim djinn
+facings 2
+djinn.131
+djinn.132
+djinn.171
+djinn.172
+mina
+anim djinn_2
+facings 2
+djinn.231
+djinn.232
+djinn.271
+djinn.272
+mina
+anim djinn_magenta
+facings 2
+djinn_magenta.x11
+djinn_magenta.x12
+djinn_magenta.x21
+djinn_magenta.x22
+mina
+anim djinn_magenta_2
+facings 2
+djinn_magenta.x11
+djinn_magenta.x12
+djinn_magenta.x21
+djinn_magenta.x22
+mina
+anim djinn_magenta_big
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_10
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_12
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_13
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_14
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_15
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_16
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_17
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_18
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_19
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_2
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_3
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_4
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_5
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_6
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_7
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_8
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim djinn_magenta_big_9
+facings 2
+djinn_magenta_big.x11
+djinn_magenta_big.x12
+djinn_magenta_big.x21
+djinn_magenta_big.x22
+mina
+anim dog
+facings 2
+dog.131
+dog.132
+dog.133
+dog.132
+dog.171
+dog.172
+dog.173
+dog.172
+mina
+anim dragon
+facings 2
+wyvern.171
+wyvern.172
+wyvern.131
+wyvern.132
+mina
+anim dragon_2
+facings 2
+wyvern.271
+wyvern.272
+wyvern.231
+wyvern.232
+mina
+anim dragon_exit
+dragon.171
+dragon.172
+dragon.173
+dragon.172
+mina
+anim dragon_exit_2
+dragon.271
+dragon.272
+dragon.273
+dragon.272
+mina
+anim dragon_exit_3
+dragon.371
+dragon.372
+dragon.373
+dragon.372
+mina
+anim dragon_exit_4
+dragon.471
+dragon.472
+dragon.473
+dragon.472
+mina
+anim dragon_exit_5
+dragon.571
+dragon.572
+dragon.573
+dragon.572
+mina
+anim dragon_exit_6
+dragon.671
+dragon.672
+dragon.673
+dragon.672
+mina
+anim dragonman
+facings 2
+dragonman.x31
+dragonman.x32
+dragonman.x33
+dragonman.x32
+dragonman.x71
+dragonman.x72
+dragonman.x73
+dragonman.x72
+mina
+anim dragonman_2
+facings 2
+dragonman.x31
+dragonman.x32
+dragonman.x33
+dragonman.x32
+dragonman.x71
+dragonman.x72
+dragonman.x73
+dragonman.x72
+mina
+anim drake
+facings 2
+drake.111
+drake.112
+drake.113
+drake.112
+drake.211
+drake.212
+drake.213
+drake.212
+mina
+anim dread
+dread.x11
+dread.x12
+dread.x13
+dread.x14
+dread.x15
+dread.x16
+mina
+anim dread_2
+dread.x11
+dread.x12
+dread.x13
+dread.x14
+dread.x15
+dread.x16
+mina
+anim dread_3
+dread.x11
+dread.x12
+dread.x13
+dread.x14
+dread.x15
+dread.x16
+mina
+anim dread_4
+dread.x11
+dread.x12
+dread.x13
+dread.x14
+dread.x15
+dread.x16
+mina
+anim dust_effect
+dust_effect.111
+dust_effect.112
+dust_effect.113
+mina
+anim dwarf
+dwarf.111
+dwarf.112
+mina
+anim dwarf_p
+dwarf_p.151
+dwarf_p.131
+dwarf_p.111
+dwarf_p.171
+facings 4
+mina
+anim dwarf_player
+dwarf_p.111
+dwarf_p.112
+dwarf_p.131
+dwarf_p.132
+dwarf_p.151
+dwarf_p.152
+dwarf_p.171
+dwarf_p.172
+facings 4
+mina
+anim dwarf_priest
+dwarf_pr.111
+dwarf_pr.112
+dwarf_pr.113
+mina
+anim dwarf_wiz
+dwarf_wiz.111
+dwarf_wiz.112
+dwarf_wiz.113
+mina
+anim earth_elemental
+elem_earth.111
+elem_earth.112
+mina
+anim earth_witch
+witch_earth.111
+witch_earth.112
+mina
+anim earthwall
+earthwall.111
+earthwall.112
+earthwall.113
+blank.111
+mina
+anim editcursor
+wizard.111
+wizard.131
+wizard.151
+wizard.171
+wizardmask.111
+wizardmask.131
+wizardmask.151
+wizardmask.171
+mina
+anim elec_dragon
+facings 2
+elec_drag.171
+elec_drag.172
+elec_drag.131
+elec_drag.132
+mina
+anim elem_dust
+elem_dust.111
+elem_dust.112
+mina
+anim elem_fire_black
+elem_fire_black.111
+elem_fire_black.112
+mina
+anim elf
+elf.111
+elf.131
+elf.151
+elf.171
+facings 4
+mina
+anim elf_1
+elf_1.111
+elf_1.112
+elf_1.113
+elf_1.112
+mina
+anim elf_guard
+elf_guard.111
+elf_guard.112
+elf_guard.113
+mina
+anim elf_lass
+elf_lass.111
+elf_lass.112
+mina
+anim elf_man
+elf_lad.111
+elf_lad.112
+mina
+anim elf_player
+elf.111
+elf.112
+elf.131
+elf.132
+elf.151
+elf.152
+elf.171
+elf.172
+facings 4
+mina
+anim emerald
+emerald.111
+emerald.112
+mina
+anim enchantment
+enchantment.111
+enchantment.112
+enchantment.113
+enchantment.114
+enchantment.115
+mina
+anim ent
+ent.x11
+ent.x11
+ent.x11
+ent.x12
+ent.x12
+ent.x13
+ent.x13
+ent.x12
+mina
+anim ent_2
+ent.x11
+ent.x11
+ent.x11
+ent.x12
+ent.x12
+ent.x13
+ent.x13
+ent.x12
+mina
+anim ent_3
+ent.x11
+ent.x11
+ent.x11
+ent.x12
+ent.x12
+ent.x13
+ent.x13
+ent.x12
+mina
+anim ent_4
+ent.x11
+ent.x11
+ent.x11
+ent.x12
+ent.x12
+ent.x13
+ent.x13
+ent.x12
+mina
+anim evil_master1
+evil_master.111
+evil_master.112
+mina
+anim evil_master2
+evil_master2.111
+evil_master2.112
+mina
+anim evil_master3
+evil_master3.111
+evil_master3.112
+mina
+anim evil_master4
+facings 2
+evil_master4.111
+evil_master4.112
+mina
+anim evoker_class
+evoker.111
+evoker.112
+evoker.131
+evoker.132
+evoker.151
+evoker.152
+evoker.171
+evoker.172
+facings 4
+mina
+anim exit
+exit.111
+exit.113
+exit.115
+exit.117
+mina
+anim explosion
+explosion.111
+explosion.112
+explosion.113
+mina
+anim explosion2
+explosion2.111
+explosion2.112
+explosion2.113
+mina
+anim faerie_dragon
+facings 2
+fae_drag.171
+fae_drag.172
+fae_drag.131
+fae_drag.132
+mina
+anim farmer
+farmer.111
+farmer.112
+mina
+anim fear
+fear.111
+fear.112
+fear.113
+mina
+anim fiend
+fiend.111
+fiend.112
+mina
+anim fighter
+fighter.111
+fighter.112
+fighter.113
+fighter.112
+mina
+anim fire_dragon
+facings 2
+fire_drag.171
+fire_drag.172
+fire_drag.131
+fire_drag.132
+mina
+anim fire_elemental
+elem_fire.111
+elem_fire.112
+mina
+anim fire_permanent
+burnout.111
+burnout.112
+burnout.113
+burnout.114
+burnout.115
+burnout.116
+burnout.117
+burnout.118
+burnout.119
+mina
+anim fire_trail
+burnout.111
+burnout.112
+burnout.113
+burnout.114
+burnout.115
+burnout.116
+burnout.117
+burnout.118
+burnout.119
+mina
+anim fire_witch
+witch_fire.111
+witch_fire.112
+mina
+anim fireball
+fireball.111
+fireball.112
+fireball.113
+mina
+anim firebolt
+firebolt.111
+firebolt.111
+firebolt.121
+firebolt.131
+firebolt.141
+firebolt.151
+firebolt.161
+firebolt.171
+firebolt.181
+mina
+anim fireborn
+fireborn.111
+fireborn.222
+fireborn.333
+fireborn.444
+mina
+anim fireborn_player
+fireborn.111
+fireborn.222
+fireborn.333
+fireborn.444
+mina
+anim firebrand
+firebrand.111
+firebrand.112
+firebrand.113
+mina
+anim firebreath
+fireball.111
+fireball.112
+fireball.113
+mina
+anim firebullet
+firebullet.111
+firebullet.111
+firebullet.121
+firebullet.131
+firebullet.141
+firebullet.151
+firebullet.161
+firebullet.171
+firebullet.181
+mina
+anim fireplace
+fireplace.111
+fireplace.112
+fireplace.113
+mina
+anim firepot
+firepot.111
+firepot.112
+firepot.113
+firepot.114
+mina
+anim firestar
+firestar.111
+firestar.112
+firestar.111
+firestar.112
+firestar.111
+firestar.112
+firestar.113
+mina
+anim fix_mercury
+fix_mercury.111
+fix_mercury.112
+mina
+anim flaming_tower
+flamingtower.111
+flamingtower.112
+flamingtower.113
+flamingtower.111
+flamingtower.114
+flamingtower.113
+flamingtower.112
+flamingtower.114
+flamingtower.111
+flamingtower.113
+flamingtower.114
+flamingtower.112
+mina
+anim flaming_tower_2
+flamingtower.211
+flamingtower.212
+flamingtower.213
+flamingtower.211
+flamingtower.214
+flamingtower.213
+flamingtower.212
+flamingtower.214
+flamingtower.211
+flamingtower.213
+flamingtower.214
+flamingtower.212
+mina
+anim fly_ant
+facings 2
+fly_ant.131
+fly_ant.132
+fly_ant.171
+fly_ant.172
+mina
+anim fog
+fog.111
+fog.112
+fog.111
+fog.111
+fog.112
+fog.111
+fog.111
+fog.112
+fog.111
+mina
+anim fog_wall
+fog.111
+fog.112
+fog.111
+mina
+anim fogexit
+fog.111
+blank.111
+fog.111
+fog.112
+fog.111
+fog.112
+fog.111
+blank.111
+blank.111
+mina
+anim forge
+forge.111
+forge.112
+forge.113
+mina
+anim forked_lightning
+lightning.111
+lightning.111
+lightning.121
+lightning.131
+lightning.141
+lightning.151
+lightning.161
+lightning.171
+lightning.181
+mina
+anim fountain
+fountain.111
+fountain.112
+fountain.113
+mina
+anim frost_hammer
+frost_hammer.111
+frost_hammer.112
+frost_hammer.113
+frost_hammer.114
+mina
+anim frostbolt
+frostbolt.111
+frostbolt.111
+frostbolt.121
+frostbolt.131
+frostbolt.141
+frostbolt.151
+frostbolt.161
+frostbolt.171
+frostbolt.181
+mina
+anim fungus
+fungus.111
+fungus.112
+fungus.113
+fungus.114
+fungus.115
+mina
+anim g_worm
+facings 2
+g_worm.x31
+g_worm.x32
+g_worm.x71
+g_worm.x72
+mina
+anim g_worm_2
+facings 2
+g_worm.x31
+g_worm.x32
+g_worm.x71
+g_worm.x72
+mina
+anim g_worm_3
+facings 2
+g_worm.x31
+g_worm.x32
+g_worm.x71
+g_worm.x72
+mina
+anim g_worm_4
+facings 2
+g_worm.x31
+g_worm.x32
+g_worm.x71
+g_worm.x72
+mina
+anim gaelotroll
+facings 2
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+mina
+anim gaelotroll_2
+facings 2
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+mina
+anim gaelotroll_3
+facings 2
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+mina
+anim gaelotroll_4
+facings 2
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+mina
+anim gaelotroll_5
+facings 2
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+mina
+anim gaelotroll_6
+facings 2
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x31
+gaelotroll.x32
+gaelotroll.x33
+gaelotroll.x32
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+gaelotroll.x71
+gaelotroll.x72
+gaelotroll.x73
+gaelotroll.x72
+mina
+anim gardengnome
+gardengnome.111
+gardengnome.112
+mina
+anim gargolye
+gargoyle.111
+gargoyle.112
+gargoyle.111
+gargoyle.112
+gargoyle.111
+mina
+anim gateTrg1
+gate_1.111
+gate_1.112
+gate_1.113
+gate_1.114
+gate_1.115
+gate_1.116
+gate_1.117
+mina
+anim gateTrg2
+gate_2.111
+gate_2.112
+gate_2.113
+gate_2.113
+gate_2.114
+gate_2.114
+gate_2.115
+gate_2.115
+mina
+anim gate_closed_1
+gate_1.111
+gate_1.112
+gate_1.113
+gate_1.114
+gate_1.115
+gate_1.116
+gate_1.117
+mina
+anim gate_closed_2
+gate_2.111
+gate_2.112
+gate_2.113
+gate_2.113
+gate_2.114
+gate_2.114
+gate_2.115
+gate_2.115
+mina
+anim gate_open_1
+gate_1.111
+gate_1.112
+gate_1.113
+gate_1.114
+gate_1.115
+gate_1.116
+gate_1.117
+mina
+anim gate_open_2
+gate_2.111
+gate_2.112
+gate_2.113
+gate_2.113
+gate_2.114
+gate_2.114
+gate_2.115
+gate_2.115
+mina
+anim gem
+gem.111
+gem.112
+mina
+anim generic_rune
+generic_rune.111
+generic_rune.111
+mina
+anim ggate_closed
+gard_gate.114
+gard_gate.113
+gard_gate.112
+gard_gate.111
+mina
+anim ggate_open
+gard_gate.114
+gard_gate.113
+gard_gate.112
+gard_gate.111
+mina
+anim ghast
+ghast.111
+ghast.112
+ghast.113
+mina
+anim ghost
+ghost.111
+ghost.112
+mina
+anim giant
+giant.x11
+giant.x12
+mina
+anim giant_2
+giant.x11
+giant.x12
+mina
+anim giant_bat
+giant_bat.111
+giant_bat.112
+giant_bat.113
+mina
+anim giantrat
+facings 2
+giantrat.x31
+giantrat.x32
+giantrat.x33
+giantrat.x32
+giantrat.x31
+giantrat.x71
+giantrat.x72
+giantrat.x73
+giantrat.x72
+giantrat.x71
+mina
+anim giantrat_2
+facings 2
+giantrat.x31
+giantrat.x32
+giantrat.x33
+giantrat.x32
+giantrat.x31
+giantrat.x71
+giantrat.x72
+giantrat.x73
+giantrat.x72
+giantrat.x71
+mina
+anim giantrat_3
+facings 2
+giantrat.x31
+giantrat.x32
+giantrat.x33
+giantrat.x32
+giantrat.x31
+giantrat.x71
+giantrat.x72
+giantrat.x73
+giantrat.x72
+giantrat.x71
+mina
+anim giantrat_4
+facings 2
+giantrat.x31
+giantrat.x32
+giantrat.x33
+giantrat.x32
+giantrat.x31
+giantrat.x71
+giantrat.x72
+giantrat.x73
+giantrat.x72
+giantrat.x71
+mina
+anim girdle_con
+girdle_con.111
+girdle_con.112
+mina
+anim girdle_dam
+girdle_dam.111
+girdle_dam.112
+mina
+anim girdle_str
+girdle_str.111
+girdle_str.112
+girdle_str.113
+girdle_str.114
+mina
+anim girdle_strcon
+gir_strcon.111
+gir_strcon.112
+mina
+anim glovesofsun
+glovesofsun.111
+glovesofsun.112
+glovesofsun.113
+mina
+anim glue
+glue.111
+glue.112
+mina
+anim gnoll
+gnoll.111
+gnoll.112
+mina
+anim gnoll_chief_arc
+gnoll_chief.111
+gnoll_chief.111
+mina
+anim gnoll_leader_arc
+gnoll_leader.111
+gnoll_leader.111
+mina
+anim gnome
+gnome.111
+gnome.112
+mina
+anim gnome_player
+gnome_p.111
+gnome_p.112
+gnome_p.131
+gnome_p.132
+gnome_p.151
+gnome_p.152
+gnome_p.171
+gnome_p.172
+facings 4
+mina
+anim goblin
+goblin.111
+goblin.112
+mina
+anim goblin_chief_arc
+goblin_chief.111
+goblin_chief.111
+mina
+anim goblin_leader_arc
+goblin_leader.111
+goblin_leader.111
+mina
+anim god_finger
+god_finger.111
+god_finger.112
+mina
+anim god_power
+destruction.111
+destruction.112
+destruction.113
+destruction.114
+destruction.113
+destruction.114
+mina
+anim goldfloor
+goldfloor.111
+woodfloor.111
+mina
+anim goldfloor2
+goldfloor2.111
+woodfloor2.111
+mina
+anim golem
+golem.111
+golem.112
+mina
+anim golem_necro
+gol.x11
+gol.x12
+mina
+anim golem_necro_2
+gol.x11
+gol.x12
+mina
+anim golem_necro_3
+gol.x11
+gol.x12
+mina
+anim golem_necro_4
+gol.x11
+gol.x12
+mina
+anim golem_necro_5
+gol.x11
+gol.x12
+mina
+anim golem_necro_6
+gol.x11
+gol.x12
+mina
+anim golem_red
+golem_red.111
+golem_red.112
+mina
+anim goose
+facings 2
+goose.171
+goose.172
+goose.131
+goose.132
+mina
+anim gr_hellhound
+facings 2
+hellhound.131
+hellhound.132
+hellhound.133
+hellhound.132
+hellhound.171
+hellhound.172
+hellhound.173
+hellhound.172
+mina
+anim gram
+gram.111
+gram.112
+gram.113
+gram.114
+mina
+anim grate_closed_1
+grate_1.111
+grate_1.112
+grate_1.113
+grate_1.114
+grate_1.115
+grate_1.116
+grate_1.117
+grate_1.118
+mina
+anim grate_closed_2
+grate_2.111
+grate_2.112
+grate_2.113
+grate_2.114
+grate_2.115
+grate_2.116
+grate_2.117
+grate_2.118
+mina
+anim grate_open_1
+grate_1.111
+grate_1.112
+grate_1.113
+grate_1.114
+grate_1.115
+grate_1.116
+grate_1.117
+grate_1.118
+mina
+anim grate_open_2
+grate_2.111
+grate_2.112
+grate_2.113
+grate_2.114
+grate_2.115
+grate_2.116
+grate_2.117
+grate_2.118
+mina
+anim greater_dwarven_guard
+greater_dwarven_guard.111
+greater_dwarven_guard.112
+mina
+anim green_dragon1
+pl_dragon_g.151
+pl_dragon_g.152
+pl_dragon_g.171
+pl_dragon_g.172
+facings 2
+mina
+anim green_dragon2
+green_dragon2.151
+green_dragon2.152
+green_dragon2.171
+green_dragon2.172
+facings 2
+mina
+anim green_slime
+greenslime.111
+greenslime.112
+mina
+anim grey_dragon
+facings 2
+grey_drag.171
+grey_drag.172
+grey_drag.131
+grey_drag.132
+mina
+anim grimreaper
+grimreaper.111
+grimreaper.112
+grimreaper.113
+grimreaper.114
+mina
+anim gryphon
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon2
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon3
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon4
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon5
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon6
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon7
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon8
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gryphon9
+facings 2
+gryphon.x31
+gryphon.x32
+gryphon.x33
+gryphon.x34
+gryphon.x33
+gryphon.x32
+gryphon.x71
+gryphon.x72
+gryphon.x73
+gryphon.x74
+gryphon.x73
+gryphon.x72
+mina
+anim gu_horn
+gu_horn.111
+gu_horn.112
+gu_horn.113
+gu_horn.114
+gu_horn.115
+mina
+anim h_kobold
+h_kobold.111
+h_kobold.112
+mina
+anim halfling
+halfling.151
+halfling.152
+mina
+anim halfling2
+halfling2.151
+halfling2.152
+mina
+anim halfling3
+halfling3.151
+halfling3.152
+mina
+anim halfling_p
+halfling.151
+halfling.131
+halfling.111
+halfling.171
+facings 4
+mina
+anim halfling_player
+halfling.111
+halfling.112
+halfling.131
+halfling.132
+halfling.151
+halfling.152
+halfling.171
+halfling.172
+facings 4
+mina
+anim hammer_2
+hammer_2.101
+hammer_2.111
+hammer_2.121
+hammer_2.131
+hammer_2.141
+hammer_2.151
+hammer_2.161
+hammer_2.171
+hammer_2.181
+mina
+anim hangingfirepot
+hangingfirepot.111
+hangingfirepot.112
+hangingfirepot.113
+hangingfirepot.114
+mina
+anim healing
+healing.111
+healing.112
+healing.113
+healing.114
+healing.115
+mina
+anim hedge
+hedge.111
+hedge.112
+hedge.113
+blank.111
+mina
+anim hellhound
+facings 2
+hellhound.131
+hellhound.132
+hellhound.133
+hellhound.132
+hellhound.171
+hellhound.172
+hellhound.173
+hellhound.172
+mina
+anim helmet_of_xrays
+helmetxray.111
+helmetxray.112
+mina
+anim holy_avenger
+holyave.111
+holyave.112
+holyave.113
+holyave.114
+holyave.115
+holyave.116
+holyave.117
+holyave.118
+holyave.119
+holyave.11A
+holyave.11B
+holyave.11C
+mina
+anim holy_effect
+turnundead.111
+turnundead.112
+turnundead.113
+mina
+anim holy_priest
+holy_priest.111
+holy_priest.211
+mina
+anim holy_servant
+golem.111
+golem.112
+mina
+anim holy_word
+turnundead.111
+turnundead.112
+turnundead.113
+mina
+anim holy_wrath
+turnundead.111
+turnundead.112
+turnundead.113
+mina
+anim human
+human.111
+human.131
+human.151
+human.171
+facings 4
+mina
+anim human_player
+human.111
+human.112
+human.131
+human.132
+human.151
+human.152
+human.171
+human.172
+facings 4
+mina
+anim icestorm
+icestorm.111
+icestorm.112
+icestorm.113
+mina
+anim icor
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.111
+icor.112
+icor.113
+icor.114
+icor.115
+icor.116
+icor.117
+icor.118
+icor.119
+icor.11A
+icor.11B
+icor.11C
+mina
+anim idaten
+idaten.111
+idaten.112
+mina
+anim igateTrg1
+iron_gate1.111
+iron_gate1.112
+iron_gate1.113
+iron_gate1.114
+iron_gate1.115
+iron_gate1.116
+iron_gate1.117
+iron_gate1.118
+mina
+anim igateTrg2
+iron_gate2.111
+iron_gate2.112
+iron_gate2.113
+iron_gate2.114
+iron_gate2.115
+iron_gate2.116
+mina
+anim igate_closed_1
+iron_gate1.111
+iron_gate1.112
+iron_gate1.113
+iron_gate1.114
+iron_gate1.115
+iron_gate1.116
+iron_gate1.117
+iron_gate1.118
+mina
+anim igate_closed_2
+iron_gate2.111
+iron_gate2.112
+iron_gate2.113
+iron_gate2.114
+iron_gate2.115
+iron_gate2.116
+mina
+anim igate_open_1
+iron_gate1.111
+iron_gate1.112
+iron_gate1.113
+iron_gate1.114
+iron_gate1.115
+iron_gate1.116
+iron_gate1.117
+iron_gate1.118
+mina
+anim igate_open_2
+iron_gate2.111
+iron_gate2.112
+iron_gate2.113
+iron_gate2.114
+iron_gate2.115
+iron_gate2.116
+mina
+anim imp
+facings 2
+imp.171
+imp.131
+mina
+anim insect_plague
+ant.111
+ant.112
+ant.111
+ant.112
+mina
+anim jessyb
+jessyb.111
+jessyb.112
+jessyb.113
+jessyb.112
+mina
+anim jessyb_10
+jessyb.A11
+jessyb.A12
+jessyb.A13
+jessyb.A12
+mina
+anim jessyb_11
+jessyb.B11
+jessyb.B12
+jessyb.B13
+jessyb.B12
+mina
+anim jessyb_12
+jessyb.C11
+jessyb.C12
+jessyb.C13
+jessyb.C12
+mina
+anim jessyb_13
+jessyb.D11
+jessyb.D12
+jessyb.D13
+jessyb.D12
+mina
+anim jessyb_14
+jessyb.E11
+jessyb.E12
+jessyb.E13
+jessyb.E12
+mina
+anim jessyb_15
+jessyb.F11
+jessyb.F12
+jessyb.F13
+jessyb.F12
+mina
+anim jessyb_16
+jessyb.G11
+jessyb.G12
+jessyb.G13
+jessyb.G12
+mina
+anim jessyb_2
+jessyb.211
+jessyb.212
+jessyb.213
+jessyb.212
+mina
+anim jessyb_3
+jessyb.311
+jessyb.312
+jessyb.313
+jessyb.312
+mina
+anim jessyb_4
+jessyb.411
+jessyb.412
+empty.111
+jessyb.412
+mina
+anim jessyb_5
+jessyb.511
+jessyb.512
+jessyb.513
+jessyb.512
+mina
+anim jessyb_6
+jessyb.611
+jessyb.612
+jessyb.613
+jessyb.612
+mina
+anim jessyb_7
+jessyb.711
+jessyb.712
+jessyb.713
+jessyb.712
+mina
+anim jessyb_8
+jessyb.811
+jessyb.812
+jessyb.813
+jessyb.812
+mina
+anim jessyb_9
+jessyb.911
+jessyb.912
+jessyb.913
+jessyb.912
+mina
+anim keep
+keep.x11
+keep.x12
+mina
+anim keep_2
+keep.x11
+keep.x12
+mina
+anim keep_3
+keep.x11
+keep.x12
+mina
+anim keep_4
+keep.x11
+keep.x12
+mina
+anim killer_bee
+killerbee.111
+killerbee.112
+mina
+anim knight
+knight.111
+knight.112
+knight.113
+knight.114
+knight.115
+mina
+anim kobold
+kobold.111
+kobold.112
+mina
+anim lamestar
+firestar.111
+firestar.112
+firestar.111
+firestar.112
+firestar.111
+firestar.112
+firestar.113
+mina
+anim lamia
+facings 2
+lamia.x31
+lamia.x32
+lamia.x71
+lamia.x72
+mina
+anim lamia_2
+facings 2
+lamia.x31
+lamia.x32
+lamia.x71
+lamia.x72
+mina
+anim lava
+lava.111
+lava.112
+lava.113
+lava.114
+lava.115
+mina
+anim lava_s
+lava_s.113
+lava_s.112
+lava_s.111
+mina
+anim lava_sea
+lava_sea.111
+lava_sea.112
+lava_sea.113
+lava_sea.114
+mina
+anim lava_sea1
+lava_sea.111
+lava_sea.112
+lava_sea.113
+lava_sea.114
+mina
+anim lbullet
+lbullet.111
+lbullet.111
+lbullet.121
+lbullet.131
+lbullet.141
+lbullet.151
+lbullet.161
+lbullet.171
+lbullet.181
+mina
+anim lbulletwall
+lbull_wall.111
+lbull_wall.121
+lbull_wall.131
+lbull_wall.141
+lbull_wall.151
+lbull_wall.161
+lbull_wall.171
+lbull_wall.181
+mina
+anim leech
+facings 2
+leech.131
+leech.132
+leech.133
+leech.132
+leech.171
+leech.172
+leech.173
+leech.172
+mina
+anim lesser_dwarven_guard
+lesser_dwarven_guard.111
+lesser_dwarven_guard.112
+mina
+anim lg_speedball
+speedball.111
+speedball.112
+mina
+anim lich
+lich.111
+lich.112
+lich.113
+mina
+anim light
+sunspear.111
+sunspear.112
+sunspear.113
+sunspear.111
+sunspear.112
+sunspear.113
+sunspear.111
+sunspear.112
+sunspear.113
+sunspear.111
+sunspear.112
+sunspear.113
+mina
+anim lightning
+lightning.111
+lightning.111
+lightning.121
+lightning.131
+lightning.141
+lightning.151
+lightning.161
+lightning.171
+lightning.181
+mina
+anim lightningwall_t
+light_wall.111
+light_wall.121
+light_wall.131
+light_wall.141
+light_wall.151
+light_wall.161
+light_wall.171
+light_wall.181
+mina
+anim liteangel
+liteangel.111
+liteangel.112
+liteangel.113
+liteangel.114
+mina
+anim living_chaos
+liv_chaos.111
+liv_chaos.444
+liv_chaos.222
+liv_chaos.333
+mina
+anim lokanth
+facings 2
+lokanth.131
+lokanth.132
+lokanth.171
+lokanth.172
+mina
+anim loose_magic
+destruction.111
+destruction.112
+destruction.113
+destruction.114
+mina
+anim lord_e
+lord_e.111
+lord_e.112
+mina
+anim luggage
+luggage.111
+luggage.112
+luggage.113
+luggage.114
+luggage.115
+luggage.116
+luggage.117
+luggage.118
+mina
+anim mabu
+mabu.x11
+mabu.x12
+mabu.x13
+mabu.x12
+mina
+anim mabu_2
+mabu.x11
+mabu.x12
+mabu.x13
+mabu.x12
+mina
+anim madman
+madman.111
+madman.112
+mina
+anim mage
+mage.111
+mage.131
+mage.151
+mage.171
+facings 4
+mina
+anim mage_class
+mage.111
+mage.112
+mage.131
+mage.132
+mage.151
+mage.152
+mage.171
+mage.172
+facings 4
+mina
+anim magi_staff
+magi_staff.111
+magi_staff.112
+magi_staff.113
+magi_staff.112
+mina
+anim magic_bow
+magic_bow.111
+magic_bow.112
+magic_bow.113
+magic_bow.114
+mina
+anim magic_missile
+magic_miss.131
+magic_miss.131
+magic_miss.151
+magic_miss.141
+magic_miss.161
+magic_miss.111
+magic_miss.171
+magic_miss.121
+magic_miss.181
+mina
+anim magic_portal
+magic_portal.11K
+magic_portal.11J
+magic_portal.11I
+magic_portal.11H
+magic_portal.11G
+magic_portal.11F
+magic_portal.11E
+magic_portal.11B
+magic_portal.11A
+magic_portal.119
+magic_portal.118
+magic_portal.117
+magic_portal.116
+magic_portal.115
+magic_portal.113
+magic_portal.114
+magic_portal.111
+magic_portal.112
+magic_portal.111
+magic_portal.112
+magic_portal.111
+magic_portal.112
+magic_portal.111
+magic_portal.112
+magic_portal.111
+magic_portal.112
+magic_portal.111
+magic_portal.112
+magic_portal.111
+magic_portal.112
+magic_portal.113
+magic_portal.114
+magic_portal.113
+magic_portal.114
+magic_portal.113
+magic_portal.114
+magic_portal.113
+magic_portal.114
+magic_portal.115
+magic_portal.116
+magic_portal.115
+magic_portal.116
+magic_portal.117
+magic_portal.118
+magic_portal.119
+magic_portal.11A
+magic_portal.11B
+magic_portal.11C
+magic_portal.11D
+magic_portal.11C
+magic_portal.11D
+magic_portal.11E
+magic_portal.11F
+magic_portal.11G
+magic_portal.11H
+magic_portal.11I
+magic_portal.11J
+magic_portal.11K
+magic_portal.11L
+magic_portal.11M
+mina
+anim magma
+magma.111
+magma.111
+magma.111
+magma.111
+magma.111
+magma.112
+magma.112
+magma.112
+magma.112
+magma.113
+magma.113
+magma.113
+magma.113
+magma.113
+magma.114
+magma.114
+magma.114
+magma.114
+magma.114
+magma.114
+mina
+anim major_chaos
+explosion.111
+burnout.11O
+fireball.111
+ball_lightning.111
+icestorm.111
+confusion.111
+acid_pool.111
+poisoncloud.111
+slow.111
+paralyse.111
+fear.111
+mina
+anim man
+facings 4
+man.151
+man.131
+man.151
+man.171
+mina
+anim man2
+facings 4
+man2.151
+man2.131
+man2.151
+man2.171
+mina
+anim manaball
+destruction.111
+destruction.112
+destruction.113
+destruction.114
+mina
+anim manablast
+destruction.111
+destruction.112
+destruction.113
+destruction.114
+mina
+anim manabolt
+destruction.111
+destruction.112
+destruction.113
+destruction.114
+mina
+anim manabullet
+snowball.111
+snowball.111
+snowball.121
+snowball.131
+snowball.141
+snowball.151
+snowball.161
+snowball.171
+snowball.181
+mina
+anim masamune
+masamune.113
+masamune.112
+masamune.111
+masamune.114
+masamune.114
+mina
+anim mastif
+facings 2
+mastif.131
+mastif.132
+mastif.133
+mastif.132
+mastif.171
+mastif.172
+mastif.173
+mastif.172
+mina
+anim mdoor_closed_1
+wdoor.111
+wdoor.112
+wdoor.113
+wdoor.114
+mina
+anim mdoor_closed_2
+sdoor.111
+sdoor.112
+sdoor.113
+sdoor.114
+mina
+anim mdoor_open_1
+wdoor.111
+wdoor.112
+wdoor.113
+wdoor.114
+mina
+anim mdoor_open_2
+sdoor.111
+sdoor.112
+sdoor.113
+sdoor.114
+mina
+anim medium_demon
+facings 1
+mdemon.111
+mdemon.112
+mina
+anim medium_demon_2
+facings 1
+mdemon.211
+mdemon.212
+mina
+anim medium_demon_3
+facings 1
+mdemon.311
+mdemon.312
+mina
+anim medium_demon_4
+facings 1
+mdemon.411
+mdemon.412
+mina
+anim merchant
+facings 4
+merchant.111
+merchant.171
+merchant.111
+merchant.131
+mina
+anim mesangel
+liteangel.111
+liteangel.112
+liteangel.113
+liteangel.114
+mina
+anim mine_secret_1_1
+minedoor_4.119
+minedoor_4.118
+minedoor_4.117
+minedoor_4.116
+minedoor_4.115
+minedoor_4.114
+minedoor_4.113
+minedoor_4.112
+minedoor_4.111
+mina
+anim mine_secret_1_2
+minedoor_4.219
+minedoor_4.218
+minedoor_4.217
+minedoor_4.216
+minedoor_4.215
+minedoor_4.214
+minedoor_4.213
+minedoor_4.212
+minedoor_4.211
+mina
+anim mine_secret_2_1
+minedoor_8.119
+minedoor_8.118
+minedoor_8.117
+minedoor_8.116
+minedoor_8.115
+minedoor_8.114
+minedoor_8.113
+minedoor_8.112
+minedoor_8.111
+mina
+anim mine_secret_2_2
+minedoor_8.219
+minedoor_8.218
+minedoor_8.217
+minedoor_8.216
+minedoor_8.215
+minedoor_8.214
+minedoor_8.213
+minedoor_8.212
+minedoor_8.211
+mina
+anim mithril
+mithril.111
+mithril.112
+mithril.113
+mithril.114
+mina
+anim mithril_ar_ele
+mithril_ar_ele.111
+mithril_ar_ele.111
+mithril_ar_ele.112
+mithril_ar_ele.112
+mithril_ar_ele.113
+mithril_ar_ele.113
+mina
+anim mithril_chainmail
+mithril_ar.111
+mithril_ar.112
+mithril_ar.113
+mina
+anim monk
+monk.151
+monk.131
+monk.111
+monk.171
+facings 4
+mina
+anim monk_class
+monk.111
+monk.112
+monk.131
+monk.132
+monk.151
+monk.152
+monk.171
+monk.172
+facings 4
+mina
+anim mouse
+mouse.111
+mouse.112
+mina
+anim mover_1
+director.111
+director.112
+director.113
+mina
+anim mover_2
+director.121
+director.122
+director.123
+director.124
+director.125
+mina
+anim mover_3
+director.131
+director.132
+director.133
+mina
+anim mover_4
+director.141
+director.142
+director.143
+director.144
+director.145
+mina
+anim mover_5
+director.151
+director.152
+director.153
+mina
+anim mover_6
+director.161
+director.162
+director.163
+director.164
+director.165
+mina
+anim mover_7
+director.171
+director.172
+director.173
+mina
+anim mover_8
+director.181
+director.182
+director.183
+director.184
+director.185
+mina
+anim mover_turn
+director.111
+director.112
+director.113
+director.121
+director.123
+director.125
+director.131
+director.132
+director.133
+director.141
+director.143
+director.145
+director.151
+director.152
+director.153
+director.161
+director.163
+director.165
+director.171
+director.172
+director.173
+director.181
+director.183
+director.185
+mina
+anim mudman
+mudman.111
+mudman.112
+mina
+anim mystic_fist
+mystic_fist.111
+mystic_fist.112
+mystic_fist.113
+mina
+anim nazgul
+nazgul.111
+nazgul.112
+mina
+anim necromancer
+necro.111
+necro.112
+mina
+anim negaball
+negaball.111
+negaball.222
+negaball.333
+negaball.444
+mina
+anim negabolt
+negabolt.111
+negabolt.111
+negabolt.121
+negabolt.131
+negabolt.141
+negabolt.151
+negabolt.161
+negabolt.171
+negabolt.181
+mina
+anim neko
+facings 2
+neko.111
+neko.112
+neko.113
+neko.114
+neko.115
+neko.116
+neko.117
+neko.118
+mina
+anim nightmare
+nightmare.111
+nightmare.112
+mina
+anim ninja
+ninja.111
+ninja.131
+ninja.151
+ninja.171
+facings 4
+mina
+anim ninja2
+ninja_2.111
+ninja_2.112
+ninja_2.113
+ninja_2.112
+mina
+anim ninja_class
+ninja.111
+ninja.112
+ninja.131
+ninja.132
+ninja.151
+ninja.152
+ninja.171
+ninja.172
+facings 4
+mina
+anim northman
+northman.111
+northman.111
+northman.112
+northman.112
+mina
+anim northman_player
+viking.111
+viking.112
+viking.131
+viking.132
+viking.151
+viking.152
+viking.171
+viking.172
+facings 4
+mina
+anim nun
+facings 4
+nun.151
+nun.131
+nun.151
+nun.171
+mina
+anim odoorm2_closed_1
+odoorm2.114
+odoorm2.113
+odoorm2.112
+odoorm2.111
+mina
+anim odoorm2_open_1
+odoorm2.114
+odoorm2.113
+odoorm2.112
+odoorm2.111
+mina
+anim odoorm2bg_closed_1
+odoorm2bg.114
+odoorm2bg.113
+odoorm2bg.112
+odoorm2bg.111
+mina
+anim odoorm2bg_open_1
+odoorm2bg.114
+odoorm2bg.113
+odoorm2bg.112
+odoorm2bg.111
+mina
+anim odoorm2rw_closed_1
+odoorm2rw.114
+odoorm2rw.113
+odoorm2rw.112
+odoorm2rw.111
+mina
+anim odoorm2rw_open_1
+odoorm2rw.114
+odoorm2rw.113
+odoorm2rw.112
+odoorm2rw.111
+mina
+anim odoorn2_closed_1
+odoorn2.114
+odoorn2.113
+odoorn2.112
+odoorn2.111
+mina
+anim odoorn2_open_1
+odoorn2.114
+odoorn2.113
+odoorn2.112
+odoorn2.111
+mina
+anim ogre
+ogre.111
+ogre.112
+mina
+anim ogre_chief_arc
+ogre_chief.111
+ogre_chief.111
+mina
+anim ogre_leader_arc
+ogre_leader.111
+ogre_leader.111
+mina
+anim ogre_r
+ogre_r.111
+ogre_r.112
+mina
+anim oil_sea
+oil_sea.111
+oil_sea.112
+oil_sea.113
+oil_sea.114
+oil_sea.113
+oil_sea.112
+mina
+anim oil_sea_ultra_viscous
+oil_sea.111
+oil_sea.112
+oil_sea.113
+oil_sea.114
+oil_sea.113
+oil_sea.112
+mina
+anim ologhi
+ologhi.111
+ologhi.112
+mina
+anim orc
+orc.111
+orc.112
+mina
+anim orc_chief_arc
+orc_chief.111
+orc_chief.112
+mina
+anim orc_leader_arc
+orc_leader.111
+orc_leader.112
+mina
+anim paladin_class
+paladin.111
+paladin.112
+paladin.131
+paladin.132
+paladin.151
+paladin.152
+paladin.171
+paladin.172
+facings 4
+mina
+anim panther
+facings 2
+panther.131
+panther.132
+panther.133
+panther.171
+panther.172
+panther.173
+mina
+anim para_air
+para_air.111
+para_air.112
+para_air.113
+para_air.114
+mina
+anim para_earth
+para_earth.111
+para_earth.112
+para_earth.113
+para_earth.112
+mina
+anim para_fire
+para_fire.111
+para_fire.112
+mina
+anim para_ice
+para_ice.111
+para_ice.112
+para_ice.113
+para_ice.112
+mina
+anim para_lava
+para_lava.111
+para_lava.112
+para_lava.113
+para_lava.112
+mina
+anim para_lightning
+para_light.111
+para_light.112
+para_light.113
+mina
+anim para_mud
+para_mud.111
+para_mud.112
+para_mud.113
+para_mud.114
+para_mud.115
+para_mud.114
+para_mud.113
+para_mud.112
+mina
+anim para_water
+para_water.111
+para_water.112
+para_water.113
+mina
+anim paralyze
+paralyse.111
+paralyse.112
+paralyse.113
+mina
+anim pearl
+pearl.111
+pearl.112
+mina
+anim pedestal
+pedestal.112
+pedestal.111
+mina
+anim pedestal_trigger
+pedestal.112
+pedestal.111
+mina
+anim perm_magic_portal
+magic_portal.111
+magic_portal.112
+mina
+anim permanent_lava
+lava.111
+lava.112
+lava.113
+lava.114
+lava.115
+mina
+anim pet_necro
+pet_necro.111
+pet_necro.112
+mina
+anim phil_phosphorus
+phil_phos.111
+phil_phos.112
+phil_phos.113
+mina
+anim phil_salt
+phil_salt.111
+phil_salt.112
+phil_salt.113
+mina
+anim phil_sulphur
+phil_sulphur.111
+phil_sulphur.112
+phil_sulphur.113
+mina
+anim pirate
+pirate.111
+pirate.112
+mina
+anim pirate_lass
+pir_lass.111
+pir_lass.112
+mina
+anim pit_closed
+hole.111
+hole.112
+hole.113
+hole.114
+hole.115
+hole.116
+hole.117
+hole.118
+hole.119
+hole.11A
+mina
+anim pit_open
+hole.111
+hole.112
+hole.113
+hole.114
+hole.115
+hole.116
+hole.117
+hole.118
+hole.119
+hole.11A
+mina
+anim pit_white-pink-c-marble_111_closed
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+white-pink-c-marble.111
+mina
+anim pit_white-pink-c-marble_111_open
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+white-pink-c-marble.111
+mina
+anim pit_white-pink-c-marble_112_closed
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+white-pink-c-marble.112
+mina
+anim pit_white-pink-c-marble_112_open
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+white-pink-c-marble.112
+mina
+anim pit_white-pink-c-marble_113_closed
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+white-pink-c-marble.113
+mina
+anim pit_white-pink-c-marble_113_open
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+white-pink-c-marble.113
+mina
+anim pit_white-pink-c-marble_114_closed
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+white-pink-c-marble.114
+mina
+anim pit_white-pink-c-marble_114_open
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+white-pink-c-marble.114
+mina
+anim pit_white-red-c-marble_111_closed
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+white-red-c-marble.111
+mina
+anim pit_white-red-c-marble_111_open
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+hole_white-any-c-marble.111
+white-red-c-marble.111
+mina
+anim pit_white-red-c-marble_112_closed
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+white-red-c-marble.112
+mina
+anim pit_white-red-c-marble_112_open
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+hole_white-any-c-marble.112
+white-red-c-marble.112
+mina
+anim pit_white-red-c-marble_113_closed
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+white-red-c-marble.113
+mina
+anim pit_white-red-c-marble_113_open
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+hole_white-any-c-marble.113
+white-red-c-marble.113
+mina
+anim pit_white-red-c-marble_114_closed
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+white-red-c-marble.114
+mina
+anim pit_white-red-c-marble_114_open
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+hole_white-any-c-marble.114
+white-red-c-marble.114
+mina
+anim pixie
+pixie.111
+pixie.112
+pixie.111
+pixie.112
+pixie.111
+blank.111
+blank.111
+mina
+anim pl_dragon_bl
+pl_dragon_bl.111
+pl_dragon_bl.112
+pl_dragon_bl.131
+pl_dragon_bl.132
+pl_dragon_bl.151
+pl_dragon_bl.152
+pl_dragon_bl.171
+pl_dragon_bl.172
+facings 4
+mina
+anim pl_dragon_blue
+pl_dragon.111
+pl_dragon.112
+pl_dragon.131
+pl_dragon.132
+pl_dragon.151
+pl_dragon.152
+pl_dragon.171
+pl_dragon.172
+facings 4
+mina
+anim pl_dragon_g
+pl_dragon_g.111
+pl_dragon_g.112
+pl_dragon_g.131
+pl_dragon_g.132
+pl_dragon_g.151
+pl_dragon_g.152
+pl_dragon_g.171
+pl_dragon_g.172
+facings 4
+mina
+anim pl_dragon_r
+pl_dragon_r.111
+pl_dragon_r.112
+pl_dragon_r.131
+pl_dragon_r.132
+pl_dragon_r.151
+pl_dragon_r.152
+pl_dragon_r.171
+pl_dragon_r.172
+facings 4
+mina
+anim pl_half_orc
+pl_half_orc.111
+pl_half_orc.112
+pl_half_orc.131
+pl_half_orc.132
+pl_half_orc.151
+pl_half_orc.152
+pl_half_orc.171
+pl_half_orc.172
+facings 4
+mina
+anim player_changer
+teleporter.111
+teleporter.112
+teleporter.113
+mina
+anim poison_fog
+poisoncloud.111
+poisoncloud.112
+poisoncloud.113
+mina
+anim poison_fog_sign
+poisoncloud.111
+poisoncloud.112
+poisoncloud.113
+mina
+anim poisonbullet
+poisonbullet.111
+poisonbullet.111
+poisonbullet.121
+poisonbullet.131
+poisonbullet.141
+poisonbullet.151
+poisonbullet.161
+poisonbullet.171
+poisonbullet.181
+mina
+anim poisoncloud
+poisoncloud.111
+poisoncloud.112
+poisoncloud.113
+mina
+anim polarbear
+polarbear.x31
+polarbear.x32
+polarbear.x71
+polarbear.x72
+facings 2
+mina
+anim polarbear_2
+polarbear.x31
+polarbear.x32
+polarbear.x71
+polarbear.x72
+facings 2
+mina
+anim polymorph
+polymorph.111
+polymorph.112
+polymorph.113
+polymorph.114
+mina
+anim postman
+facings 2
+postman.131
+postman.132
+postman.171
+postman.172
+mina
+anim power_crystal
+power_crystal.111
+power_crystal.112
+power_crystal.113
+power_crystal.114
+mina
+anim priest
+priest.111
+priest.131
+priest.151
+priest.171
+facings 4
+mina
+anim priest_class
+priest.111
+priest.112
+priest.131
+priest.132
+priest.151
+priest.152
+priest.171
+priest.172
+facings 4
+mina
+anim princess
+princess.111
+princess.112
+princess.113
+princess.112
+mina
+anim prisoner
+prisoner.111
+prisoner.111
+prisoner.111
+prisoner.111
+prisoner.112
+prisoner.112
+mina
+anim protection
+protection.111
+protection.112
+protection.113
+protection.114
+protection.115
+protection.116
+protection.117
+mina
+anim pup
+facings 2
+pup.131
+pup.132
+pup.133
+pup.132
+pup.131
+pup.171
+pup.172
+pup.173
+pup.172
+pup.171
+mina
+anim pyromaniac
+pyromaniac.111
+pyromaniac.112
+pyromaniac.113
+pyromaniac.114
+mina
+anim quetzalcoatl
+facings 2
+quetzalcoatl.131
+quetzalcoatl.132
+quetzalcoatl.171
+quetzalcoatl.172
+mina
+anim quetzalcoatl_player
+quetzalcoatl.131
+quetzalcoatl.132
+quetzalcoatl.171
+quetzalcoatl.172
+facings 2
+mina
+anim quicksilver_sea
+quicksilver_sea.111
+quicksilver_sea.112
+quicksilver_sea.113
+quicksilver_sea.114
+quicksilver_sea.113
+quicksilver_sea.112
+mina
+anim raas
+facings 2
+raas.171
+raas.131
+mina
+anim red_dragon1
+facings 2
+pl_dragon_r.151
+pl_dragon_r.152
+pl_dragon_r.171
+pl_dragon_r.172
+mina
+anim red_dragon2
+facings 2
+red_dragon2.151
+red_dragon2.152
+red_dragon2.171
+red_dragon2.172
+mina
+anim redweak_wall_3
+redcwall_w_0.111
+redcwall_w_0.112
+redcwall_w_0.113
+redcwall_w_0.114
+redcwall_w_0.115
+redcwall_w_0.116
+redcwall_w_0.117
+redcwall_w_0.118
+redcwall_w_0.119
+redcwall_w_0.11A
+mina
+anim redweak_wall_4
+redcwall_w_1.111
+redcwall_w_1.112
+redcwall_w_1.113
+redcwall_w_1.114
+redcwall_w_1.115
+redcwall_w_1.116
+redcwall_w_1.117
+redcwall_w_1.118
+redcwall_w_1.119
+mina
+anim reflector
+reflector.111
+reflector.112
+reflector.113
+reflector.112
+mina
+anim ring
+ring.111
+ring.112
+ring.113
+ring.114
+ring.115
+ring.116
+mina
+anim ring_nodrain
+ring_drain.111
+ring_drain.112
+ring_drain.113
+ring_drain.114
+mina
+anim robe_midnight
+robe_midnight.111
+robe_midnight.112
+robe_midnight.113
+mina
+anim rod_heavy
+rod_heavy.111
+rod_heavy.112
+rod_heavy.113
+mina
+anim rod_light
+rod_light.111
+rod_light.112
+rod_light.113
+mina
+anim ruby
+ruby.111
+ruby.112
+mina
+anim rune_antimagic
+rune_antimagic.111
+rune_antimagic.111
+mina
+anim rune_ball_lightning
+rune_blightning.111
+rune_blightning.111
+mina
+anim rune_blast
+rune_blast.111
+explosion.111
+mina
+anim rune_burning_hands
+rune_fire.111
+fireball.111
+mina
+anim rune_confusion
+rune_confusion.111
+confusion.111
+mina
+anim rune_create_bomb
+rune_bomb.111
+rune_bomb.111
+mina
+anim rune_death
+rune_death.111
+rune_death.111
+mina
+anim rune_dragonbreath
+rune_fire.111
+fireball.111
+mina
+anim rune_drain_magic
+drain_magic.111
+drain_magic.111
+mina
+anim rune_fire
+rune_fire.111
+fireball.111
+mina
+anim rune_frost
+rune_frost.111
+icestorm.111
+mina
+anim rune_heal
+rune_heal.111
+rune_heal.111
+mina
+anim rune_icestorm
+rune_frost.111
+icestorm.111
+mina
+anim rune_large_fireball
+rune_fireball.111
+rune_fireball.111
+mina
+anim rune_large_icestorm
+rune_frost.111
+icestorm.111
+mina
+anim rune_medium_fireball
+rune_fireball.111
+rune_fireball.111
+mina
+anim rune_paralysis
+rune_paralysis.111
+rune_paralysis.112
+mina
+anim rune_poison_cloud
+rune_pcloud.111
+poisoncloud.111
+mina
+anim rune_regenerate_spellpoints
+rune_sp_res.111
+rune_sp_res.111
+mina
+anim rune_restoration
+rune_heal.111
+rune_heal.111
+mina
+anim rune_shock
+rune_shock.111
+rune_shock.111
+mina
+anim rune_small_lightning
+rune_lightning.111
+rune_lightning.111
+mina
+anim rune_summon_air_elemental
+rune_summon_air.111
+rune_summon_air.111
+mina
+anim rune_summon_devil
+rune_summon.111
+rune_summon.111
+mina
+anim rune_summon_earth_elemental
+rune_sum_earth.111
+rune_sum_earth.111
+mina
+anim rune_summon_fire_elemental
+rune_sum_fire.111
+rune_sum_fire.111
+mina
+anim rune_summon_water_elemental
+rune_sum_water.111
+rune_sum_water.111
+mina
+anim rune_transferrence
+rune_transfer.111
+rune_transfer.111
+mina
+anim rustmonster
+facings 2
+rustmonste.131
+rustmonste.132
+rustmonste.171
+rustmonste.172
+mina
+anim s_barrack_up
+s_barrack_u.x11
+s_barrack_u.x12
+mina
+anim s_barrack_up_2
+s_barrack_u.x11
+s_barrack_u.x12
+mina
+anim s_mastif
+facings 2
+s_mastif.131
+s_mastif.132
+s_mastif.133
+s_mastif.132
+s_mastif.171
+s_mastif.172
+s_mastif.173
+s_mastif.172
+mina
+anim s_wyvern
+facings 2
+s_wyvern.131
+s_wyvern.132
+s_wyvern.171
+s_wyvern.172
+mina
+anim s_wyvern_2
+facings 2
+s_wyvern.231
+s_wyvern.232
+s_wyvern.271
+s_wyvern.272
+mina
+anim sandy
+sandy.112
+sandy.113
+sandy.114
+sandy.115
+sandy.114
+sandy.113
+sandy.112
+mina
+anim sapphire
+sapphire.111
+sapphire.112
+mina
+anim scorpion
+scorpion.111
+scorpion.112
+mina
+anim sea
+sea.111
+sea.112
+sea.113
+sea.114
+sea.113
+sea.112
+mina
+anim sea1
+sea.111
+sea.112
+sea.113
+sea.114
+sea.113
+sea.112
+mina
+anim serp_man
+facings 2
+serp_man.131
+serp_man.132
+serp_man.171
+serp_man.172
+mina
+anim serp_priest
+facings 2
+serp_priest.131
+serp_priest.171
+mina
+anim serpent
+facings 2
+serpent.131
+serpent.132
+serpent.171
+serpent.172
+mina
+anim serpent_2
+facings 2
+serpent.231
+serpent.232
+serpent.271
+serpent.272
+mina
+anim serpentman_player
+serpentman.111
+serpentman.112
+serpentman.171
+serpentman.172
+serpentman.151
+serpentman.152
+serpentman.131
+serpentman.132
+facings 4
+mina
+anim shadow
+shadow.111
+shadow.112
+mina
+anim shadowpup
+facings 2
+panther.131
+panther.132
+blank.111
+panther.133
+blank.111
+panther.171
+panther.172
+blank.111
+panther.173
+blank.111
+mina
+anim shadowtiger
+facings 2
+shadowtiger.x31
+shadowtiger.x32
+shadowtiger.x33
+shadowtiger.x34
+shadowtiger.x32
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x31
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+shadowtiger.x72
+shadowtiger.x73
+shadowtiger.x74
+shadowtiger.x72
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+blank.111
+blank.111
+blank.111
+mina
+anim shadowtiger_2
+facings 2
+shadowtiger.x31
+shadowtiger.x32
+shadowtiger.x33
+shadowtiger.x34
+shadowtiger.x32
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x31
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+shadowtiger.x72
+shadowtiger.x73
+shadowtiger.x74
+shadowtiger.x72
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+blank.111
+blank.111
+blank.111
+mina
+anim shadowtiger_3
+facings 2
+shadowtiger.x31
+shadowtiger.x32
+shadowtiger.x33
+shadowtiger.x34
+shadowtiger.x32
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x31
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+shadowtiger.x72
+shadowtiger.x73
+shadowtiger.x74
+shadowtiger.x72
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+blank.111
+blank.111
+blank.111
+mina
+anim shadowtiger_4
+facings 2
+shadowtiger.x31
+shadowtiger.x32
+shadowtiger.x33
+shadowtiger.x34
+shadowtiger.x32
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x31
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+shadowtiger.x72
+shadowtiger.x73
+shadowtiger.x74
+shadowtiger.x72
+blank.111
+blank.111
+blank.111
+blank.111
+blank.111
+shadowtiger.x71
+blank.111
+blank.111
+blank.111
+mina
+anim shallow_sea
+shallow_sea.111
+shallow_sea.112
+shallow_sea.113
+shallow_sea.114
+shallow_sea.113
+shallow_sea.112
+mina
+anim sheep
+facings 1
+sheep.131
+sheep.171
+mina
+anim shell
+shell.112
+shell.111
+shell.121
+shell.131
+shell.141
+shell.151
+shell.161
+shell.171
+shell.181
+mina
+anim shield_gaea
+earth_shield.111
+earth_shield.112
+earth_shield.113
+earth_shield.114
+earth_shield.113
+earth_shield.112
+mina
+anim shining_finger
+shining_finger.111
+shining_finger.112
+mina
+anim shockwave
+explosion.111
+explosion.112
+explosion.113
+mina
+anim shovel_1
+shovel_1.111
+shovel_1.112
+shovel_1.113
+shovel_1.114
+shovel_1.115
+mina
+anim siegfried
+siegfried.111
+siegfried.112
+mina
+anim skeletalmage
+skeletalmage.111
+skeletalmage.112
+skeletalmage.113
+skeletalmage.112
+mina
+anim skeleton
+skeleton.111
+skeleton.112
+mina
+anim skeleton_chief_arc
+skeleton_chief.111
+skeleton_chief.111
+mina
+anim skeleton_leader_arc
+skeleton_leader.111
+skeleton_leader.111
+mina
+anim skree_1
+facings 2
+skree.x31
+skree.x32
+skree.x33
+skree.x71
+skree.x72
+skree.x73
+mina
+anim skree_2
+facings 2
+skree.x31
+skree.x32
+skree.x33
+skree.x71
+skree.x72
+skree.x73
+mina
+anim skree_3
+facings 2
+skree.x31
+skree.x32
+skree.x33
+skree.x71
+skree.x72
+skree.x73
+mina
+anim skree_4
+facings 2
+skree.x31
+skree.x32
+skree.x33
+skree.x71
+skree.x72
+skree.x73
+mina
+anim skull
+skull.111
+skull.112
+mina
+anim skullcleaver
+skullcleav.111
+skullcleav.112
+skullcleav.113
+skullcleav.114
+mina
+anim slime
+slime.111
+slime.112
+slime.113
+mina
+anim slimecrawler
+slimecrawler.111
+slimecrawler.112
+slimecrawler.113
+slimecrawler.112
+mina
+anim slotmachine1
+slotmachine1.111
+slotmachine1.112
+mina
+anim slotmachine2
+slotmachine2.111
+slotmachine2.112
+mina
+anim slotmachine3
+slotmachine3.111
+slotmachine3.112
+mina
+anim slow
+slow.111
+slow.112
+slow.113
+mina
+anim slug
+facings 2
+slug.131
+slug.132
+slug.171
+slug.172
+mina
+anim slug_2
+facings 2
+slug.231
+slug.232
+slug.271
+slug.272
+mina
+anim small_troll
+smalltroll.111
+smalltroll.112
+mina
+anim smallt_green
+smallt_green.111
+smallt_green.112
+mina
+anim smover_1
+pmarrow.111
+pmarrow.112
+pmarrow.113
+mina
+anim smover_2
+pmarrow.121
+pmarrow.122
+pmarrow.123
+pmarrow.124
+pmarrow.125
+mina
+anim smover_3
+pmarrow.131
+pmarrow.132
+pmarrow.133
+mina
+anim smover_4
+pmarrow.141
+pmarrow.142
+pmarrow.143
+pmarrow.144
+pmarrow.145
+mina
+anim smover_5
+pmarrow.151
+pmarrow.152
+pmarrow.153
+mina
+anim smover_6
+pmarrow.161
+pmarrow.162
+pmarrow.163
+pmarrow.164
+pmarrow.165
+mina
+anim smover_7
+pmarrow.171
+pmarrow.172
+pmarrow.173
+mina
+anim smover_8
+pmarrow.181
+pmarrow.182
+pmarrow.183
+pmarrow.184
+pmarrow.185
+mina
+anim smover_turn
+pmarrow.111
+pmarrow.112
+pmarrow.113
+pmarrow.121
+pmarrow.123
+pmarrow.125
+pmarrow.131
+pmarrow.132
+pmarrow.133
+pmarrow.141
+pmarrow.143
+pmarrow.145
+pmarrow.151
+pmarrow.152
+pmarrow.153
+pmarrow.161
+pmarrow.163
+pmarrow.165
+pmarrow.171
+pmarrow.172
+pmarrow.173
+pmarrow.181
+pmarrow.183
+pmarrow.185
+mina
+anim snake
+snake.111
+snake.112
+snake.113
+mina
+anim snake_golem
+snake.111
+snake.112
+mina
+anim snowball
+snowball.111
+snowball.111
+snowball.121
+snowball.131
+snowball.141
+snowball.151
+snowball.161
+snowball.171
+snowball.181
+mina
+anim snowstorm
+icestorm.111
+icestorm.112
+icestorm.113
+mina
+anim sorcerer_class
+sorcerer.111
+sorcerer.112
+sorcerer.131
+sorcerer.132
+sorcerer.151
+sorcerer.152
+sorcerer.171
+sorcerer.172
+facings 4
+mina
+anim sparkshower
+sparkshower.111
+sparkshower.112
+sparkshower.113
+mina
+anim spear
+spear.101
+spear.111
+spear.121
+spear.131
+spear.141
+spear.151
+spear.161
+spear.171
+spear.181
+mina
+anim spear_ixalovh
+spear_ixalovh.111
+spear_ixalovh.112
+spear_ixalovh.113
+mina
+anim speedball
+speedball.111
+speedball.112
+mina
+anim speedballwall
+speedbwall.111
+speedbwall.112
+mina
+anim speedboots
+speedboots.111
+speedboots.112
+speedboots.113
+speedboots.112
+mina
+anim sphinx
+facings 2
+sphinx.x31
+sphinx.x71
+mina
+anim sphinx_2
+facings 2
+sphinx.x31
+sphinx.x71
+mina
+anim spider
+spider.111
+spider.112
+mina
+anim spider_gen
+spider_web.111
+spider_web.112
+mina
+anim spider_web
+spider_web.111
+spider_web.112
+mina
+anim spike_closed
+spike.122
+spike.121
+spike.119
+spike.118
+spike.117
+spike.116
+spike.115
+spike.114
+spike.113
+spike.112
+spike.111
+mina
+anim spike_hidden
+spike.110
+spike.119
+spike.118
+spike.117
+spike.116
+spike.115
+spike.114
+spike.113
+spike.112
+spike.111
+mina
+anim spike_moving
+spike.122
+spike.121
+spike.120
+spike.119
+spike.118
+spike.117
+spike.116
+spike.115
+spike.114
+spike.113
+spike.112
+spike.111
+mina
+anim spike_open
+spike.122
+spike.121
+spike.119
+spike.118
+spike.117
+spike.116
+spike.115
+spike.114
+spike.113
+spike.112
+spike.111
+mina
+anim spikes_closed
+spikes.119
+spikes.118
+spikes.117
+spikes.116
+spikes.115
+spikes.114
+spikes.113
+spikes.112
+spikes.111
+mina
+anim spikes_hidden
+spikes.110
+spikes.118
+spikes.117
+spikes.116
+spikes.115
+spikes.114
+spikes.113
+spikes.112
+spikes.111
+mina
+anim spikes_moving
+spikes.119
+spikes.118
+spikes.117
+spikes.116
+spikes.115
+spikes.114
+spikes.113
+spikes.112
+spikes.111
+mina
+anim spikes_open
+spikes.119
+spikes.118
+spikes.117
+spikes.116
+spikes.115
+spikes.114
+spikes.113
+spikes.112
+spikes.111
+mina
+anim spinner_-135
+spinner.111
+spinner.113
+spinner.115
+spinner.117
+spinner.119
+spinner.11B
+spinner.11D
+mina
+anim spinner_-45
+spinner.111
+spinner.112
+spinner.113
+spinner.114
+spinner.115
+spinner.116
+spinner.117
+spinner.118
+spinner.119
+spinner.11A
+spinner.11B
+spinner.11C
+spinner.11D
+mina
+anim spinner_-90
+spinner.111
+spinner.112
+spinner.113
+spinner.114
+spinner.115
+spinner.116
+spinner.117
+spinner.118
+spinner.119
+spinner.11A
+spinner.11B
+spinner.11C
+spinner.11D
+mina
+anim spinner_135
+spinner.11D
+spinner.11B
+spinner.119
+spinner.117
+spinner.115
+spinner.113
+spinner.111
+mina
+anim spinner_180
+spinner.111
+spinner.114
+spinner.117
+spinner.11A
+spinner.11D
+mina
+anim spinner_45
+spinner.11D
+spinner.11C
+spinner.11B
+spinner.11A
+spinner.119
+spinner.118
+spinner.117
+spinner.116
+spinner.115
+spinner.114
+spinner.113
+spinner.112
+spinner.111
+mina
+anim spinner_90
+spinner.11D
+spinner.11C
+spinner.11B
+spinner.11A
+spinner.119
+spinner.118
+spinner.117
+spinner.116
+spinner.115
+spinner.114
+spinner.113
+spinner.112
+spinner.111
+mina
+anim spit_ant
+facings 2
+spit_ant.131
+spit_ant.132
+spit_ant.131
+spit_ant.132
+spit_ant.133
+spit_ant.132
+spit_ant.171
+spit_ant.172
+spit_ant.171
+spit_ant.172
+spit_ant.173
+spit_ant.172
+mina
+anim spock
+spock.111
+spock.112
+mina
+anim staff
+staff.111
+staff.111
+staff.111
+staff.111
+staff.112
+staff.113
+staff.114
+staff.115
+staff.114
+staff.113
+staff.112
+staff.111
+mina
+anim stalker
+stalker.112
+stalker.111
+stalker.112
+blank.111
+stalker.112
+stalker.111
+stalker.112
+blank.111
+blank.111
+blank.111
+mina
+anim steambolt
+steam.111
+steam.112
+steam.111
+steam.112
+mina
+anim sting
+sting.111
+sting.112
+sting.113
+sting.114
+sting.113
+sting.112
+mina
+anim stove
+stove.111
+stove.112
+stove.113
+mina
+anim stwall_closed_1
+stwallsec.111
+stwallsec.112
+stwallsec.113
+stwallsec.114
+stwallsec.115
+stwallsec.116
+stwallsec.117
+stwallsec.118
+mina
+anim stwall_open_1
+stwallsec.111
+stwallsec.112
+stwallsec.113
+stwallsec.114
+stwallsec.115
+stwallsec.116
+stwallsec.117
+stwallsec.118
+mina
+anim sunspear
+sunspear.111
+sunspear.112
+sunspear.113
+mina
+anim swashbuckler
+swashbuckl.111
+swashbuckl.151
+swashbuckl.171
+swashbuckl.131
+facings 4
+mina
+anim swashbuckler_class
+swashbuckl.111
+swashbuckl.112
+swashbuckl.131
+swashbuckl.132
+swashbuckl.152
+swashbuckl.151
+swashbuckl.171
+swashbuckl.172
+facings 4
+mina
+anim t_dagger
+t_dagger.101
+t_dagger.111
+t_dagger.121
+t_dagger.131
+t_dagger.141
+t_dagger.151
+t_dagger.161
+t_dagger.171
+t_dagger.181
+mina
+anim tear_gaea
+tear.111
+tear.112
+tear.113
+tear.114
+mina
+anim teleporter
+teleporter.111
+teleporter.112
+teleporter.113
+mina
+anim temp_fog
+fog.111
+fog.112
+fog.111
+fog.111
+fog.112
+fog.111
+fog.111
+fog.112
+fog.111
+mina
+anim tentacle
+blank.111
+blank.111
+blank.111
+tentacle.111
+tentacle.112
+tentacle.113
+tentacle.112
+tentacle.111
+mina
+anim tentacle2
+tentacle2.111
+tentacle2.112
+tentacle2.113
+tentacle2.112
+tentacle2.111
+blank.111
+blank.111
+blank.111
+mina
+anim thewheel_short_ccwise-back
+thewheel_short.111
+thewheel_short.111
+thewheel_short.111
+thewheel_short.111
+thewheel_short.111
+thewheel_short.112
+thewheel_short.113
+thewheel_short.114
+thewheel_short.115
+thewheel_short.115
+thewheel_short.115
+thewheel_short.114
+thewheel_short.113
+thewheel_short.113
+thewheel_short.112
+thewheel_short.111
+thewheel_short.111
+thewheel_short.111
+mina
+anim thewheel_tall_2_ccwise-back
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x12
+thewheel_tall.x13
+thewheel_tall.x14
+thewheel_tall.x15
+thewheel_tall.x15
+thewheel_tall.x15
+thewheel_tall.x14
+thewheel_tall.x13
+thewheel_tall.x13
+thewheel_tall.x12
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+mina
+anim thewheel_tall_ccwise-back
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x12
+thewheel_tall.x13
+thewheel_tall.x14
+thewheel_tall.x15
+thewheel_tall.x15
+thewheel_tall.x15
+thewheel_tall.x14
+thewheel_tall.x13
+thewheel_tall.x13
+thewheel_tall.x12
+thewheel_tall.x11
+thewheel_tall.x11
+thewheel_tall.x11
+mina
+anim thief
+thief.111
+thief.131
+thief.151
+thief.171
+facings 4
+mina
+anim thief_1
+facings 4
+thief.111
+thief.131
+thief.151
+thief.171
+mina
+anim thief_class
+thief.111
+thief.112
+thief.131
+thief.132
+thief.151
+thief.152
+thief.171
+thief.172
+facings 4
+mina
+anim thundar_bolt
+thunder_bolt.101
+thunder_bolt.111
+thunder_bolt.121
+thunder_bolt.131
+thunder_bolt.141
+thunder_bolt.151
+thunder_bolt.161
+thunder_bolt.171
+thunder_bolt.181
+mina
+anim titan
+facings 2
+titan.571
+titan.572
+titan.573
+titan.573
+titan.572
+titan.571
+titan.531
+titan.532
+titan.533
+titan.533
+titan.532
+titan.531
+mina
+anim titan_2
+facings 2
+titan.471
+titan.472
+titan.473
+titan.473
+titan.472
+titan.471
+titan.431
+titan.432
+titan.433
+titan.433
+titan.432
+titan.431
+mina
+anim titan_3
+facings 2
+titan.171
+titan.172
+titan.173
+titan.173
+titan.172
+titan.171
+titan.131
+titan.132
+titan.133
+titan.133
+titan.132
+titan.131
+mina
+anim titan_4
+facings 2
+titan.271
+titan.272
+titan.273
+titan.273
+titan.272
+titan.271
+titan.231
+titan.232
+titan.233
+titan.233
+titan.232
+titan.231
+mina
+anim titan_5
+facings 2
+titan.371
+titan.372
+titan.373
+titan.373
+titan.372
+titan.371
+titan.331
+titan.332
+titan.333
+titan.333
+titan.332
+titan.331
+mina
+anim titan_6
+facings 2
+titan.671
+titan.672
+titan.673
+titan.673
+titan.672
+titan.671
+titan.631
+titan.632
+titan.633
+titan.633
+titan.632
+titan.631
+mina
+anim titan_7
+facings 2
+titan.971
+titan.972
+titan.973
+titan.973
+titan.972
+titan.971
+titan.931
+titan.932
+titan.933
+titan.933
+titan.932
+titan.931
+mina
+anim titan_8
+facings 2
+titan.871
+titan.872
+titan.873
+titan.873
+titan.872
+titan.871
+titan.831
+titan.832
+titan.833
+titan.833
+titan.832
+titan.831
+mina
+anim titan_9
+facings 2
+titan.771
+titan.772
+titan.773
+titan.773
+titan.772
+titan.771
+titan.731
+titan.732
+titan.733
+titan.733
+titan.732
+titan.731
+mina
+anim torch_1
+torch_lit1.111
+torch_lit2.111
+mina
+anim torch_cyan
+torch_cyan.111
+torch_cyan.112
+mina
+anim torch_indigo
+torch_indigo.111
+torch_indigo.112
+mina
+anim torch_vermilion
+torch_vermilion.111
+torch_vermilion.112
+mina
+anim town_portal_magic
+magic_portal.111
+magic_portal.112
+mina
+anim trap
+trap.111
+trap.111
+mina
+anim trap_blades
+blades.111
+blades.111
+mina
+anim trap_diseased_needle
+needle.111
+needle.111
+mina
+anim trap_needle
+needle.111
+needle.111
+mina
+anim trap_rocks
+falling_rocks.111
+falling_rocks.111
+mina
+anim trap_spike_pit
+spiked_pit.111
+spiked_pit.111
+mina
+anim trap_spikes2
+tspikes.111
+tspikes.111
+mina
+anim trapdoor_1
+trapdoor_1.111
+hole.111
+mina
+anim trapdoor_2
+trapdoor_2.111
+hole.111
+mina
+anim trapdoor_3
+trapdoor_3.111
+hole.111
+mina
+anim trapdoor_4
+trapdoor_4.111
+hole.111
+mina
+anim trident
+trident.101
+trident.111
+trident.121
+trident.131
+trident.141
+trident.151
+trident.161
+trident.171
+trident.181
+mina
+anim trigger
+handle.111
+handle.112
+mina
+anim troll_1
+troll.x11
+troll.x12
+troll.x13
+troll.x12
+mina
+anim troll_2
+troll.x11
+troll.x12
+troll.x13
+troll.x12
+mina
+anim troll_3
+troll.x11
+troll.x12
+troll.x13
+troll.x12
+mina
+anim troll_4
+troll.x11
+troll.x12
+troll.x13
+troll.x12
+mina
+anim troll_player
+troll_p.111
+troll_p.112
+troll_p.131
+troll_p.132
+troll_p.151
+troll_p.152
+troll_p.171
+troll_p.172
+facings 4
+mina
+anim turn_undead
+turnundead.111
+turnundead.112
+turnundead.113
+mina
+anim u_horn
+u_horn.111
+u_horn.112
+u_horn.113
+u_horn.114
+u_horn.115
+mina
+anim uk_sd
+uk_sd.111
+uk_sd.112
+uk_sd.113
+uk_sd.114
+uk_sd.115
+uk_sd.116
+uk_sd.117
+mina
+anim unicorn
+facings 2
+unicorn.x31
+unicorn.x32
+unicorn.x33
+unicorn.x71
+unicorn.x72
+unicorn.x73
+mina
+anim unicorn_2
+facings 2
+unicorn.x31
+unicorn.x32
+unicorn.x33
+unicorn.x71
+unicorn.x72
+unicorn.x73
+mina
+anim unusual_kobold
+unusual_kobold.111
+unusual_kobold.112
+mina
+anim uw_sword
+uw_sword.111
+uw_sword.112
+uw_sword.113
+uw_sword.114
+uw_sword.115
+mina
+anim vampire
+vampire.111
+vampire.111
+vampire.112
+vampire.112
+vampire.112
+vampire.112
+mina
+anim viking
+viking.111
+viking.131
+viking.151
+viking.171
+facings 4
+mina
+anim violin
+violin.111
+violin.112
+violin.113
+violin.114
+violin.115
+violin.116
+violin.117
+violin.119
+violin.11A
+violin.11B
+violin.11C
+violin.11D
+mina
+anim vitriol_pool
+v_pool.111
+v_pool.112
+mina
+anim vitriol_splash
+v_splash.111
+v_splash.112
+mina
+anim wand
+wand.112
+wand.113
+mina
+anim war_ant
+facings 2
+war_ant.131
+war_ant.132
+war_ant.171
+war_ant.172
+mina
+anim warlock_class
+mage.111
+mage.112
+mage.131
+mage.132
+mage.151
+mage.152
+mage.171
+mage.172
+facings 4
+mina
+anim warrior
+warrior.111
+warrior.131
+warrior.151
+warrior.171
+facings 4
+mina
+anim warrior_blue
+facings 4
+warrior_blue.111
+warrior_blue.131
+warrior_blue.151
+warrior_blue.171
+mina
+anim warrior_class
+warrior.111
+warrior.112
+warrior.131
+warrior.132
+warrior.151
+warrior.152
+warrior.171
+warrior.172
+facings 4
+mina
+anim warrior_green
+facings 4
+warrior_green.111
+warrior_green.131
+warrior_green.151
+warrior_green.171
+mina
+anim warrior_grey
+facings 4
+warrior_grey.111
+warrior_grey.131
+warrior_grey.151
+warrior_grey.171
+mina
+anim warrior_lblue
+facings 4
+warrior_lblue.111
+warrior_lblue.131
+warrior_lblue.151
+warrior_lblue.171
+mina
+anim warrior_red
+facings 4
+warrior_red.111
+warrior_red.131
+warrior_red.151
+warrior_red.171
+mina
+anim water_elemental
+elem_water.111
+elem_water.112
+mina
+anim water_witch
+witch_water.111
+witch_water.112
+mina
+anim wave
+wave.111
+wave.112
+wave.113
+mina
+anim wdsm
+wdsm.111
+wdsm.112
+wdsm.113
+mina
+anim weak_wall_1
+awall_w_0.111
+awall_w_0.112
+awall_w_0.113
+awall_w_0.114
+awall_w_0.115
+awall_w_0.116
+awall_w_0.117
+mina
+anim weak_wall_2
+awall_w_1.111
+awall_w_1.112
+awall_w_1.113
+awall_w_1.114
+awall_w_1.115
+awall_w_1.116
+awall_w_1.117
+awall_w_1.118
+awall_w_1.119
+awall_w_1.11A
+mina
+anim weak_wall_3
+cwall_w_0.111
+cwall_w_0.112
+cwall_w_0.113
+cwall_w_0.114
+cwall_w_0.115
+cwall_w_0.116
+cwall_w_0.117
+cwall_w_0.118
+cwall_w_0.119
+cwall_w_0.11A
+mina
+anim weak_wall_4
+cwall_w_1.111
+cwall_w_1.112
+cwall_w_1.113
+cwall_w_1.114
+cwall_w_1.115
+cwall_w_1.116
+cwall_w_1.117
+cwall_w_1.118
+cwall_w_1.119
+mina
+anim weak_wall_5
+bwall_w_0.111
+bwall_w_0.112
+bwall_w_0.113
+bwall_w_0.114
+bwall_w_0.115
+bwall_w_0.116
+bwall_w_0.117
+mina
+anim weak_wall_6
+bwall_w_1.111
+bwall_w_1.112
+bwall_w_1.113
+bwall_w_1.114
+bwall_w_1.115
+bwall_w_1.116
+bwall_w_1.117
+mina
+anim westcwall_closed_1
+westcwallsec.111
+westcwallsec.112
+westcwallsec.113
+westcwallsec.114
+westcwallsec.115
+westcwallsec.116
+westcwallsec.117
+westcwallsec.118
+mina
+anim westcwall_open_1
+westcwallsec.111
+westcwallsec.112
+westcwallsec.113
+westcwallsec.114
+westcwallsec.115
+westcwallsec.116
+westcwallsec.117
+westcwallsec.118
+mina
+anim westweak_wall_3
+westcwall_w_0.111
+westcwall_w_0.112
+westcwall_w_0.113
+westcwall_w_0.114
+westcwall_w_0.115
+westcwall_w_0.116
+westcwall_w_0.117
+westcwall_w_0.118
+westcwall_w_0.119
+westcwall_w_0.11A
+mina
+anim westweak_wall_4
+westcwall_w_1.111
+westcwall_w_1.112
+westcwall_w_1.113
+westcwall_w_1.114
+westcwall_w_1.115
+westcwall_w_1.116
+westcwall_w_1.117
+westcwall_w_1.118
+westcwall_w_1.119
+mina
+anim whirlwind_exit
+elem_air.111
+elem_air.112
+blank.111
+elem_air.111
+elem_air.112
+blank.111
+blank.111
+mina
+anim wight
+wight.111
+wight.112
+wight.113
+wight.114
+mina
+anim windstorm
+windstorm.111
+windstorm.112
+windstorm.113
+mina
+anim witch_chaos
+facings 4
+witch_air.111
+witch_air.112
+witch_chaos.112
+witch_chaos.111
+witch_earth.111
+witch_earth.112
+witch_chaos.112
+witch_chaos.111
+witch_water.111
+witch_water.112
+witch_chaos.112
+witch_chaos.111
+witch_fire.111
+witch_fire.112
+witch_chaos.112
+witch_chaos.111
+mina
+anim wiz_hat
+wiz_hat.111
+wiz_hat.112
+wiz_hat.113
+mina
+anim wizard
+wizard.111
+wizard.131
+wizard.151
+wizard.171
+facings 4
+mina
+anim wizard_blue
+facings 4
+wizard_blue.111
+wizard_blue.131
+wizard_blue.151
+wizard_blue.171
+mina
+anim wizard_class
+wizard.111
+wizard.131
+wizard.151
+wizard.171
+facings 4
+mina
+anim wizard_green
+facings 4
+wizard_green.111
+wizard_green.131
+wizard_green.151
+wizard_green.171
+mina
+anim wizard_tower
+wizard_tower.111
+wizard_tower.112
+wizard_tower.113
+mina
+anim wizard_tower2
+wizard_tower.211
+wizard_tower.212
+wizard_tower.213
+mina
+anim wizard_white
+facings 4
+wizard_white.111
+wizard_white.131
+wizard_white.151
+wizard_white.171
+mina
+anim wizard_yellow
+facings 4
+wizard_yellow.111
+wizard_yellow.131
+wizard_yellow.151
+wizard_yellow.171
+mina
+anim wolf
+wolf.171
+wolf.171
+wolf.172
+wolf.131
+wolf.131
+wolf.132
+facings 2
+mina
+anim woman
+facings 4
+woman.151
+woman.131
+woman.151
+woman.171
+mina
+anim woman2
+woman2.111
+woman2.112
+woman2.113
+woman2.112
+mina
+anim woman3
+facings 3
+woman3.111
+woman3.112
+woman3.113
+mina
+anim work_ant
+facings 2
+work_ant.131
+work_ant.132
+work_ant.171
+work_ant.172
+mina
+anim wraith
+wraith.111
+wraith.112
+wraith.113
+mina
+anim wraith_player
+wraithp.111
+wraithp.112
+wraithp.131
+wraithp.132
+wraithp.151
+wraithp.152
+wraithp.171
+wraithp.172
+facings 4
+mina
+anim wrathful_eye
+sunspear.111
+sunspear.112
+sunspear.113
+mina
+anim wwall_weak_1
+wwall_w_0.111
+wwall_w_0.112
+wwall_w_0.113
+wwall_w_0.114
+wwall_w_0.115
+wwall_w_0.116
+wwall_w_0.117
+mina
+anim wwall_weak_2
+wwall_w_1.111
+wwall_w_1.112
+wwall_w_1.113
+wwall_w_1.114
+wwall_w_1.115
+wwall_w_1.116
+wwall_w_1.117
+mina
+anim xan
+xan.111
+xan.112
+mina
+anim zombie
+zombie.111
+zombie.112
+zombie.113
+zombie.112
+mina
